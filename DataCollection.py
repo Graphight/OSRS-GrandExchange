@@ -23,7 +23,7 @@ def collect_item_graph_data_and_write_to_csv(base_url, endpoint, item_id, file_n
         data_average = response["average"]
 
         for key in sorted(data_daily.keys()):
-            timestamp = datetime.datetime.fromtimestamp(int(key)/1000.0)
+            timestamp = datetime.datetime.fromtimestamp(int(key)/1000.0).date()
             value_daily = data_daily[key]
             value_average = data_average[key]
 

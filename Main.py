@@ -53,7 +53,7 @@ df.index = pd.to_datetime(df.index)
 
 freq = 7
 sample_data = df["Item Value Daily"].resample(str(freq) + "D").mean()
-decomposition = sm.tsa.seasonal_decompose(sample_data, model="additive", freq=freq)
+decomposition = sm.tsa.seasonal_decompose(sample_data, freq=freq)
 decomposition.plot()
 
 
@@ -64,16 +64,17 @@ decomposition.plot()
 arima_pdq = determine_best_p_d_q_variables(sample_data)
 arima_model = arima_pdq.fit(disp=False)
 # print(arima_model.summary().tables[1])
-arima_model.plot_diagnostics(figsize=(16, 8))
+# arima_model.plot_diagnostics(figsize=(16, 8))
 
 
 # =================================================
 #   ========== STEP FOUR : PREDICTIONS ==========
 # =================================================
 # ARIMA stuff
-start_pred = pd.to_datetime(df.index.values[int(df.size * 0.8)])
-end_pred = pd.to_datetime(df.index.values[-1]) + pd.DateOffset(minutes=10)
-arima_prediction = arima_model.get_prediction(start=start_pred, end=end_pred, dynamic=False)
+length = len(df.index) / 7
+# start_pred = pd.Timestamp.now().date() - pd.Timedelta(days=30)
+# end_pred = pd.Timestamp.now().date()
+arima_prediction = arima_model.get_prediction(start=int(length * 0.8), end=int(length + 10), dynamic=False)
 arima_prediction_ci = arima_prediction.conf_int()
 
 ax = df.plot(label="Observed")
@@ -91,10 +92,10 @@ plt.legend()
 #    ========== STEP FIVE : EVALUATION ==========
 # =================================================
 # ARIMA MSE
-arima_forecast = arima_prediction.predicted_mean[:(end_pred - pd.DateOffset(minutes=10))]
-arima_truth = sample_data[start_pred:]
-mse = ((arima_forecast - arima_truth) ** 2).mean()
-print("The Mean Square Error of our forecast is {}".format(round(mse, 2)))
+# arima_forecast = arima_prediction.predicted_mean[:(end_pred - pd.DateOffset(minutes=10))]
+# arima_truth = sample_data[start_pred:]
+# mse = ((arima_forecast - arima_truth) ** 2).mean()
+# print("The Mean Square Error of our forecast is {}".format(round(mse, 2)))
 
 plt.show()
 
