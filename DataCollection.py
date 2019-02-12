@@ -75,13 +75,15 @@ def collect_item_ids(base_url, endpoint_catalogue_category, endpoint_catalogue_i
                                      })
 
                 # Wait for a little between API calls
-                sleep(2)
+                sleep(1)
 
 
 def collect_promising_items(base_url, df_items: pd.DataFrame, endpoint_catalogue_detail):
     promising = dict()
 
-    for item_id, item_name in df_items.iterrows():
+    for index, data in df_items.iterrows():
+        item_id = data["Item Id"]
+        item_name = data["Item Name"]
 
         url_item = base_url + endpoint_catalogue_detail.format(item_id)
         print("Determining if item: {} [{}] looks promising".format(item_name, item_id))
@@ -98,7 +100,7 @@ def collect_promising_items(base_url, df_items: pd.DataFrame, endpoint_catalogue
                 "members": item_detail["members"]
             }
 
-        sleep(0.5)
+        # sleep(0.5)
 
     return promising
 
