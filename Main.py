@@ -31,6 +31,7 @@ matplotlib.rcParams["figure.figsize"] = 18, 8
 
 # Important
 BASE_URL = "http://services.runescape.com/m=itemdb_oldschool"
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger("OSRS")
 logger.setLevel("DEBUG")
 
@@ -47,14 +48,15 @@ ENDPOINT_GRAPHS = "/api/graph/{}.json"
 
 
 # Collect item ids
-file_name = "ItemIds.csv"
-collect_item_ids(BASE_URL, ENDPOINT_CATALOGUE_CATEGORY, ENDPOINT_CATALOGUE_ITEMS, file_name)
+file_name_ids = "ItemIds.csv"
+file_name_promising = "ItemsPromising.csv"
+# collect_item_ids(BASE_URL, ENDPOINT_CATALOGUE_CATEGORY, ENDPOINT_CATALOGUE_ITEMS, file_name)
 
-df_items = pd.read_csv(file_name)
-promising_items = collect_promising_items(BASE_URL, df_items, ENDPOINT_CATALOGUE_DETAIL)
+df_item_ids = pd.read_csv(file_name_ids)
+collect_promising_items(BASE_URL, df_item_ids, ENDPOINT_CATALOGUE_DETAIL, file_name_promising)
 
-print(promising_items)
-
+df_items_promising = pd.read_csv(file_name_promising)
+print(df_items_promising)
 
 
 
