@@ -37,95 +37,122 @@ BASE_URL = "http://services.runescape.com/m=itemdb_oldschool"
 ITEM_DETAIL = "/api/catalogue/detail.json?item={}"
 ITEM_GRAPHS = "/api/graph/{}.json"
 
-# Item dict
-items = {"Bow string": 440}
 
-logger = logging.getLogger('OSRS_GE_ML')
-logger.setLevel(logging.DEBUG)
+class Messiah:
 
+    def __init__(self, base_url, endpoint_graph, endpoint_detail, df_items, file_name):
+        # API interaction
+        self.base_url = base_url
+        self.endpoint_graph = endpoint_graph
+        self.endpoint_detail = endpoint_detail
 
-# =================================================
-#     ========== STEP ONE : GET DATA ==========
-# =================================================
-file_name = "test.csv"
-collect_item_graph_data_and_write_to_csv(BASE_URL, ITEM_GRAPHS, 453, file_name)
-df = pd.read_csv(file_name)
-logger.info("STEP ONE COMPLETE: Data Collected")
+        # Data Objects
+        self.df_items = df_items
+        self.df = None
+        self.df_sampled = None
+        self.df_prohpet = None
+        self.prophet_model = None
+        self.prophet_forecast = None
+        
+        # Tuning
+        self.seasonal_freq = 7
+        self.prediction_steps = 10
 
+        # Misc
+        self.file_name = file_name
+        self.current_item_id = None
+        self.current_item_name = None
+        self.logger = logging.getLogger("OSRS_GE_ML")
 
-# =================================================
-#   ========== STEP TWO : PROCESS DATA ==========
-# =================================================
-df = df.sort_values("Timestamp")
-df = df.set_index("Timestamp")
-df.index = pd.to_datetime(df.index)
+    # =================================================
+    #     ========== STEP ONE : GET DATA ==========
+    # =================================================
+    def step_one(self):
+        collect_item_graph_data_and_write_to_csv(self.base_url, self.endpoint_graph, self.current_item_id, self.file_name)
+        self.df = pd.read_csv(self.file_name)
+        self.logger.info("STEP ONE COMPLETE: Data Collected")
 
-freq = 7
-sample_data = df["Item Value Daily"].resample(str(freq) + "D").mean()
-decomposition = sm.tsa.seasonal_decompose(sample_data, model="additive", freq=freq)
-decomposition.plot()
-logger.info("STEP TWO COMPLETE: Data Processed")
+    # =================================================
+    #   ========== STEP TWO : PROCESS DATA ==========
+    # =================================================
+    def step_two(self):
+        self.df = self.df.sort_values("Timestamp")
+        self.df = self.df.set_index("Timestamp")
+        self.df.index = pd.to_datetime(self.df.index)
 
+        self.df_sampled = self.df["Item Value Daily"].resample(str(self.seasonal_freq) + "D").mean()
+        decomposition = sm.tsa.seasonal_decompose(self.df_sampled, model="additive", freq=self.seasonal_freq)
+        decomposition.plot()
+        self.logger.info("STEP TWO COMPLETE: Data Processed")
 
-# =================================================
-# ========== STEP THREE : MODEL CREATION ==========
-# =================================================
-# Use Facebook"s -Prophet-
-prophet_df = pd.DataFrame({"ds": df.index, "y": df["Item Value Daily"].values})
-prophet_model = Prophet(interval_width=0.95)
-prophet_model.fit(prophet_df)
-logger.info("STEP THREE COMPLETE: Model Created")
+    # =================================================
+    # ========== STEP THREE : MODEL CREATION ==========
+    # =================================================
+    def step_three(self):
+        self.df_prohpet = pd.DataFrame({"ds": self.df.index, "y": self.df["Item Value Daily"].values})
+        self.prophet_model = Prophet(interval_width=0.95)
+        self.prophet_model.fit(self.df_prohpet)
+        self.logger.info("STEP THREE COMPLETE: Model Created")
 
+    # =================================================
+    #   ========== STEP FOUR : PREDICTIONS ==========
+    # =================================================
+    def step_four(self):
+        graph_title = "OSRS Grand Exchange - Price prediction - {}".format(self.current_item_name)
+        graph_x_label = "Timestamp"
+        graph_y_label = "Item Value Daily"
+    
+        self.prophet_forecast = self.prophet_model.make_future_dataframe(periods=self.prediction_steps, freq="D", include_history=True)
+        self.prophet_forecast = self.prophet_model.predict(self.prophet_forecast)
+    
+        self.prophet_model.plot(self.prophet_forecast, xlabel=graph_x_label, ylabel=graph_y_label)
+        plt.title(graph_title)
+        plt.legend()
+    
+        self.logger.info("STEP FOUR COMPLETE: Predictions Made")
 
-# =================================================
-#   ========== STEP FOUR : PREDICTIONS ==========
-# =================================================
-# Facebook's -Prophet-
-graph_title = "OSRS Grand Exchange - Price prediction - Coal "
-graph_x_label = "Timestamp"
-graph_y_label = "Item Value Daily"
+    # =================================================
+    #    ========== STEP FIVE : EVALUATION ==========
+    # =================================================
+    def step_five(self):
+        length = len(self.df.index)
+        for i in range(0, self.prediction_steps):
+            index = length + i
+            current = self.prophet_forecast.iloc[index]["yhat"]
+            previous = self.prophet_forecast.iloc[index - 1]["yhat"]
+            percentage = ((current / previous) - 1) * 100
+            if current > previous:
+                verdict = "Increase"
+            else:
+                verdict = "Decrease"
+            print("{} - \t{:.2f} to \t{:.2f} -> \t{:.2f} %".format(verdict, previous, current, percentage))
 
-future_steps = 14
-prophet_forecast = prophet_model.make_future_dataframe(periods=future_steps, freq="D", include_history=True)
-prophet_forecast = prophet_model.predict(prophet_forecast)
+        # Trends and patterns -Prophet-
+        self.prophet_model.plot_components(self.prophet_forecast)
+        plt.show()
+        self.logger.info("STEP FIVE COMPLETE: Evaluation Complete")
 
-prophet_model.plot(prophet_forecast, xlabel=graph_x_label, ylabel=graph_y_label)
-plt.title(graph_title + "< Prophet Forecast >")
-plt.legend()
+    def reset(self):
+        self.current_item_id = None
+        self.current_item_name = None
+        self.df = None
+        self.df_sampled = None
+        self.df_prohpet = None
+        self.prophet_model = None
+        self.prophet_forecast = None
 
-logger.info("STEP FOUR COMPLETE: Predictions Made")
+    def run_items(self):
+        for index, row in self.df_items.iterrows():
+            # print(row)
+            self.current_item_id = row["Id"]
+            self.current_item_name = row["Name"]
+            self.run()
 
-
-# =================================================
-#    ========== STEP FIVE : EVALUATION ==========
-# =================================================
-# Verdicts
-length = len(df.index)
-verdict = ""
-for i in range(0, future_steps):
-    index = length + i
-    current = prophet_forecast.iloc[index]["yhat"]
-    previous = prophet_forecast.iloc[index - 1]["yhat"]
-    percentage = ((current / previous) - 1) * 100
-    if current > previous:
-        verdict = "Increase"
-    else:
-        verdict = "Decrease"
-    print("{} - \t{:.2f} to \t{:.2f} -> \t{:.2f} %".format(verdict, previous, current, percentage))
-
-
-# Trends and patterns -Prophet-
-prophet_model.plot_components(prophet_forecast)
-plt.show()
-logger.info("STEP FIVE COMPLETE: Evaluation Complete")
-
-
-
-
-
-
-
-
-
-
+    def run(self):
+            self.step_one()
+            self.step_two()
+            self.step_three()
+            self.step_four()
+            self.step_five()
+            self.reset()
 

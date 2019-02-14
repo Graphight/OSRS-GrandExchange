@@ -11,7 +11,7 @@ import pandas as pd
 from time import sleep
 
 
-logger = logging.getLogger("OSRS")
+logger = logging.getLogger("OSRS_GE_ML")
 
 
 def collect_item_graph_data_and_write_to_csv(base_url, endpoint, item_id, file_name):
@@ -84,7 +84,7 @@ def collect_promising_items(base_url, df_items: pd.DataFrame, endpoint_catalogue
     with requests.Session() as sesh:
 
         with open(file_name, "w", newline="") as csvfile:
-            field_names = ["Id", "Name", "DayTrend30", "Members"]
+            field_names = ["Id", "Name", "DayTrend30", "Members", "Price"]
             writer = csv.DictWriter(csvfile, fieldnames=field_names)
             writer.writeheader()
 
@@ -116,7 +116,8 @@ def collect_promising_items(base_url, df_items: pd.DataFrame, endpoint_catalogue
                         "Id": item_id,
                         "Name": item_name,
                         "DayTrend30": day30["change"],
-                        "Members": item_detail["members"]
+                        "Members": item_detail["members"],
+                        "Price": translate_number(current["price"])
                     })
 
                 sleep(4)
@@ -153,4 +154,20 @@ def fetch_json(sesh, url_item, response):
     return response_json
 
 
+def translate_number(num_in):
+    end_char = num_in[-1]
+    if end_char in ["k", "m", "b"]:
+        num_actual = num_in[:-1]
 
+        if end_char == "k":
+            num_actual *= int(num_actual * 1_000)
+
+        elif end_char == "m":
+            num_actual *= int(num_actual * 1_000_000)
+
+        elif end_char == "b":
+            num_actual = int(num_actual * 1_000_000_000)
+    else:
+        num_actual = int(num_in)
+
+    return num_actual

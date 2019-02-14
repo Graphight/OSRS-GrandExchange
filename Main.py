@@ -11,6 +11,7 @@ import matplotlib
 from time import sleep
 from matplotlib import pyplot as plt
 from DataCollection import collect_item_graph_data_and_write_to_csv, collect_item_ids, collect_promising_items
+from Messiah import Messiah
 
 
 # =================================================
@@ -32,7 +33,7 @@ matplotlib.rcParams["figure.figsize"] = 18, 8
 # Important
 BASE_URL = "http://services.runescape.com/m=itemdb_oldschool"
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-logger = logging.getLogger("OSRS")
+logger = logging.getLogger("OSRS_GE_ML")
 logger.setLevel("DEBUG")
 
 # Endpoints
@@ -56,9 +57,24 @@ df_item_ids = pd.read_csv(file_name_ids)
 collect_promising_items(BASE_URL, df_item_ids, ENDPOINT_CATALOGUE_DETAIL, file_name_promising)
 
 df_items_promising = pd.read_csv(file_name_promising)
-print(df_items_promising)
+df_items_promising["DayTrend30Float"] = df_items_promising["DayTrend30"].apply(lambda x: float(x[1:-1]))
+
+df_items_promising_sorted = df_items_promising.copy()
+df_items_promising_sorted.sort_values("DayTrend30Float", ascending=False, inplace=True)
+# print(df_items_promising_sorted.head())
+
+# df_top_5_items = df_items_promising_sorted.head(20)
+# print(df_top_5_items)
+
+# messiah = Messiah(BASE_URL, ENDPOINT_GRAPHS, ENDPOINT_CATALOGUE_DETAIL, df_top_5_items, "temp.csv")
+# messiah.run_items()
 
 
+# messiah.current_item_name = "Lobster"
+# messiah.current_item_name = "Lobster Pot"
+# messiah.current_item_id = 379
+# messiah.current_item_id = 301
+# messiah.run()
 
 
 
