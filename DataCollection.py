@@ -11,6 +11,7 @@ import pandas as pd
 from time import sleep
 
 
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger("OSRS_GE_ML")
 
 
@@ -155,18 +156,20 @@ def fetch_json(sesh, url_item, response):
 
 
 def translate_number(num_in):
+    num_in = str(num_in).upper()
     num_in = num_in.replace(",", "")
+
     end_char = num_in[-1]
-    if end_char in ["k", "m", "b"]:
+    if end_char in ["K", "M", "B"]:
         num_actual = num_in[:-1]
 
-        if end_char == "k":
+        if end_char == "K":
             num_actual = int(float(num_actual) * 1_000)
 
-        elif end_char == "m":
+        elif end_char == "M":
             num_actual = int(float(num_actual) * 1_000_000)
 
-        elif end_char == "b":
+        elif end_char == "B":
             num_actual = int(float(num_actual) * 1_000_000_000)
     else:
         num_actual = int(num_in)
