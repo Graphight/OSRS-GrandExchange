@@ -160,13 +160,13 @@ def translate_number(num_in):
         num_actual = num_in[:-1]
 
         if end_char == "k":
-            num_actual *= int(num_actual * 1_000)
+            num_actual *= int(float(num_actual) * 1_000)
 
         elif end_char == "m":
-            num_actual *= int(num_actual * 1_000_000)
+            num_actual *= int(float(num_actual) * 1_000_000)
 
         elif end_char == "b":
-            num_actual = int(num_actual * 1_000_000_000)
+            num_actual = int(float(num_actual) * 1_000_000_000)
     else:
         num_actual = int(num_in)
 
