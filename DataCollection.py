@@ -81,7 +81,7 @@ def collect_item_ids(base_url, endpoint_catalogue_category, endpoint_catalogue_i
                         })
 
 
-def collect_promising_items(base_url, df_items: pd.DataFrame, endpoint_catalogue_detail, file_name):
+def collect_promising_items(base_url, df_items: pd.DataFrame, endpoint_catalogue_detail, file_name, last_index):
     with requests.Session() as sesh:
 
         with open(file_name, "w", newline="") as csvfile:
@@ -90,38 +90,39 @@ def collect_promising_items(base_url, df_items: pd.DataFrame, endpoint_catalogue
             writer.writeheader()
 
             for index, data in df_items.iterrows():
-                item_id = data["Id"]
-                item_name = data["Name"]
+                if index > last_index:
+                    item_id = data["Id"]
+                    item_name = data["Name"]
 
-                url_item = base_url + endpoint_catalogue_detail.format(item_id)
-                logger.info("Determining if item: {} [{}] looks promising".format(item_name, item_id))
+                    url_item = base_url + endpoint_catalogue_detail.format(item_id)
+                    logger.info("Determining if item: {} [{}] looks promising".format(item_name, item_id))
 
-                response_item = fetch_response(sesh, url_item)
-                response_item_json = fetch_json(sesh, url_item, response_item)
+                    response_item = fetch_response(sesh, url_item)
+                    response_item_json = fetch_json(sesh, url_item, response_item)
 
-                item_detail = response_item_json["item"]
-                current = item_detail["current"]
-                day30 = item_detail["day30"]
-                day90 = item_detail["day90"]
-                day180 = item_detail["day180"]
+                    item_detail = response_item_json["item"]
+                    current = item_detail["current"]
+                    day30 = item_detail["day30"]
+                    day90 = item_detail["day90"]
+                    day180 = item_detail["day180"]
 
-                recent_trends = [
-                    # current["trend"],
-                    day30["trend"],
-                    # day90["trend"],
-                    # day180["trend"]
-                ]
+                    recent_trends = [
+                        # current["trend"],
+                        day30["trend"],
+                        # day90["trend"],
+                        # day180["trend"]
+                    ]
 
-                if "positive" in recent_trends:
-                    writer.writerow({
-                        "Id": item_id,
-                        "Name": item_name,
-                        "DayTrend30": day30["change"],
-                        "Members": item_detail["members"],
-                        "Price": translate_number(current["price"])
-                    })
+                    if "positive" in recent_trends:
+                        writer.writerow({
+                            "Id": item_id,
+                            "Name": item_name,
+                            "DayTrend30": day30["change"],
+                            "Members": item_detail["members"],
+                            "Price": translate_number(current["price"])
+                        })
 
-                sleep(4)
+                    sleep(4)
 
 
 def fetch_response(sesh, url_item):
@@ -158,6 +159,7 @@ def fetch_json(sesh, url_item, response):
 def translate_number(num_in):
     num_in = str(num_in).upper()
     num_in = num_in.replace(",", "")
+    num_in = num_in.strip()
 
     end_char = num_in[-1]
     if end_char in ["K", "M", "B"]:

@@ -1,1045 +1,1398 @@
 Id,Name,DayTrend30,Members,Price
-12424,3rd age bow,+0.0%,true,332000000
-10342,3rd age mage hat,+6.0%,true,8300000
-10348,3rd age platebody,+11.0%,true,53300000
-10346,3rd age platelegs,+8.0%,true,56200000
-13263,Abyssal bludgeon,+7.0%,true,28800000
-11095,Abyssal bracelet(5),+0.0%,true,2287
-13265,Abyssal dagger,+0.0%,true,9600000
-4151,Abyssal whip,+1.0%,true,2600000
-1317,Adamant 2h sword,+1.0%,false,3608
-1371,Adamant battleaxe,+2.0%,false,2226
-9143,Adamant bolts,+4.0%,true,197
-9297,Adamant bolts (p+),+0.0%,true,692
-9304,Adamant bolts (p++),+1.0%,true,1948
-9380,Adamant bolts(unf),+6.0%,true,211
-4129,Adamant boots,+4.0%,true,1008
-4798,Adamant brutal,+3.0%,true,265
-1111,Adamant chainbody,+2.0%,false,2686
-3100,Adamant claws,+11.0%,true,1996
-1211,Adamant dagger,+10.0%,false,306
-5694,Adamant dagger(p++),+2.0%,true,8139
-823,Adamant dart tip,+0.0%,true,211
-5633,Adamant dart(p+),+3.0%,true,567
-5640,Adamant dart(p++),+6.0%,true,1313
-1161,Adamant full helm,+1.0%,false,1887
-3200,Adamant halberd,+10.0%,true,10700
-11375,Adamant hasta,+1.0%,true,1009
-19578,Adamant javelin heads,+13.0%,true,171
-835,Adamant javelin(p),+2.0%,true,121
-5646,Adamant javelin(p+),+4.0%,true,118
-1199,Adamant kiteshield,+0.0%,false,3008
-875,Adamant knife(p),+6.0%,true,540
+10344,3rd age amulet,+0.0%,true,12000000
+12424,3rd age bow,+7.0%,true,352200000
+10342,3rd age mage hat,+5.0%,true,8300000
+10348,3rd age platebody,+4.0%,true,52400000
+10346,3rd age platelegs,+1.0%,true,57600000
+10334,3rd age range coif,+0.0%,true,6100000
+13263,Abyssal bludgeon,+6.0%,true,29400000
+11095,Abyssal bracelet(5),+2.0%,true,2321
+2862,Achey tree logs,+1.0%,true,228
+5312,Acorn,+27.0%,true,47
+1317,Adamant 2h sword,+0.0%,false,3602
+5626,Adamant arrow(p++),+1.0%,true,55
+1371,Adamant battleaxe,+0.0%,false,2231
+9304,Adamant bolts (p++),+1.0%,true,2008
+4129,Adamant boots,+10.0%,true,1211
+12377,Adamant cane,+18.0%,true,1015
+1111,Adamant chainbody,+1.0%,false,2677
+3100,Adamant claws,+4.0%,true,2046
+9183,Adamant crossbow,+18.0%,true,1880
+9463,Adamant crossbow (u),+16.0%,true,1435
+1211,Adamant dagger,+0.0%,false,306
+1227,Adamant dagger(p),+0.0%,true,631
+5694,Adamant dagger(p++),+2.0%,true,8149
+5633,Adamant dart(p+),+5.0%,true,576
+5640,Adamant dart(p++),+7.0%,true,1367
+1161,Adamant full helm,+1.0%,false,1885
+3200,Adamant halberd,+14.0%,true,11300
+11375,Adamant hasta,+1.0%,true,1022
+11412,Adamant hasta(p++),+3.0%,true,7953
+829,Adamant javelin,+52.0%,true,58
+19578,Adamant javelin heads,+25.0%,true,164
+5652,Adamant javelin(p++),+4.0%,true,154
+1199,Adamant kiteshield,+0.0%,false,3017
+867,Adamant knife,+2.0%,true,368
+875,Adamant knife(p),+1.0%,true,535
 5659,Adamant knife(p+),+4.0%,true,319
-5666,Adamant knife(p++),+5.0%,true,2095
-1301,Adamant longsword,+2.0%,false,1710
-1430,Adamant mace,+8.0%,false,679
-1145,Adamant med helm,+5.0%,false,951
-1123,Adamant platebody,+0.0%,false,9594
-1073,Adamant platelegs,+2.0%,false,3642
-13012,Adamant set (lg),+0.0%,false,18400
-13014,Adamant set (sk),+0.0%,false,20700
-1245,Adamant spear,+1.0%,true,1008
-5712,Adamant spear(p+),+2.0%,true,1520
-5726,Adamant spear(p++),+8.0%,true,3221
-1183,Adamant sq shield,+2.0%,false,2085
-804,Adamant thrownaxe,+8.0%,true,151
-2361,Adamantite bar,+2.0%,false,2084
-449,Adamantite ore,+22.0%,false,1257
-7198,Admiral pie,+4.0%,true,205
-12881,Ahrim's armour set,+19.0%,true,5200000
-4708,Ahrim's hood,+1.0%,true,58700
-4860,Ahrim's hood 0,+4.0%,true,22400
-4714,Ahrim's robeskirt,+20.0%,true,2400000
-4878,Ahrim's robeskirt 0,+22.0%,true,2500000
-4712,Ahrim's robetop,+21.0%,true,2600000
-4872,Ahrim's robetop 0,+22.0%,true,2600000
-1397,Air battlestaff,+0.0%,true,9062
-5527,Air tiara,+25.0%,false,5
-4436,Airtight pot,+10.0%,true,830
-21347,Amethyst,+0.0%,true,3564
-21326,Amethyst arrow,+12.0%,true,213
-21334,Amethyst arrow(p+),+1.0%,true,741
-21336,Amethyst arrow(p++),+20.0%,true,1828
-21350,Amethyst arrowtips,+5.0%,true,234
-21338,Amethyst bolt tips,+0.0%,true,228
-21318,Amethyst javelin,+11.0%,true,606
-21352,Amethyst javelin heads,+1.0%,true,701
-21320,Amethyst javelin(p),+4.0%,true,578
+5666,Adamant knife(p++),+6.0%,true,2150
+1301,Adamant longsword,+0.0%,false,1719
+1430,Adamant mace,+3.0%,false,662
+1145,Adamant med helm,+4.0%,false,956
+1123,Adamant platebody,+0.0%,false,9644
+1073,Adamant platelegs,+1.0%,false,3627
+3475,Adamant plateskirt (g),+3.0%,false,3858
+3474,Adamant plateskirt (t),+0.0%,false,3590
+1331,Adamant scimitar,+4.0%,false,1391
+13012,Adamant set (lg),+1.0%,false,18900
+7346,Adamant shield (h3),+0.0%,false,2989
+7358,Adamant shield (h5),+2.0%,false,2978
+1245,Adamant spear,+4.0%,true,1057
+1259,Adamant spear(p),+5.0%,true,1047
+5726,Adamant spear(p++),+6.0%,true,3283
+1183,Adamant sq shield,+2.0%,false,2092
+1287,Adamant sword,+4.0%,false,1127
+804,Adamant thrownaxe,+4.0%,true,151
+1345,Adamant warhammer,+2.0%,false,2260
+2361,Adamantite bar,+0.0%,false,2116
+4823,Adamantite nails,+2.0%,true,122
+449,Adamantite ore,+12.0%,false,1352
+7198,Admiral pie,+36.0%,true,237
+12430,Afro,+6.0%,true,43500
+4708,Ahrim's hood,+2.0%,true,61100
+4860,Ahrim's hood 0,+9.0%,true,24100
+4714,Ahrim's robeskirt,+3.0%,true,2200000
+4878,Ahrim's robeskirt 0,+6.0%,true,2100000
+4866,Ahrim's staff 0,+0.0%,true,54800
+1397,Air battlestaff,+0.0%,true,9067
+4436,Airtight pot,+39.0%,true,1002
+21347,Amethyst,+3.0%,true,3612
+21334,Amethyst arrow(p+),+3.0%,true,747
+21336,Amethyst arrow(p++),+10.0%,true,1811
+21350,Amethyst arrowtips,+0.0%,true,231
+21338,Amethyst bolt tips,+8.0%,true,233
+21316,Amethyst broad bolts,+3.0%,true,292
+21318,Amethyst javelin,+9.0%,true,645
+21352,Amethyst javelin heads,+3.0%,true,705
 21322,Amethyst javelin(p+),+4.0%,true,575
 21324,Amethyst javelin(p++),+4.0%,true,865
-21160,Amulet of bounty,+4.0%,true,508
-19707,Amulet of eternal glory,+8.0%,true,22700000
-1704,Amulet of glory,+0.0%,true,12300
-1727,Amulet of magic,+8.0%,false,679
-1725,Amulet of strength,+1.0%,false,1269
-12851,Amulet of the damned (full),+19.0%,true,163500
-19553,Amulet of torture,+7.0%,true,16600000
-21018,Ancestral hat,+32.0%,true,15500000
-21024,Ancestral robe bottom,+9.0%,true,66500000
-21021,Ancestral robe top,+7.0%,true,76500000
-21049,Ancestral robes set,+10.0%,true,158800000
-319,Anchovies,+14.0%,false,55
-2297,Anchovy pizza,+6.0%,false,641
-12490,Ancient bracers,+25.0%,true,19100
-12494,Ancient chaps,+49.0%,true,279500
-12492,Ancient d'hide,+11.0%,true,368800
-19921,Ancient d'hide boots,+8.0%,true,1200000
-13171,Ancient dragonhide set,+15.0%,true,744400
-21807,Ancient emblem,+0.0%,true,495000
-12621,Ancient page 1,+15.0%,true,182000
-12622,Ancient page 2,+27.0%,true,133900
-12623,Ancient page 3,+6.0%,true,169000
-12624,Ancient page 4,+2.0%,true,195900
-12462,Ancient platelegs,+3.0%,false,47200
-12464,Ancient plateskirt,+2.0%,false,39000
-12195,Ancient robe legs,+11.0%,true,86400
+19707,Amulet of eternal glory,+1.0%,true,23600000
+21018,Ancestral hat,+2.0%,true,14600000
+21024,Ancestral robe bottom,+0.0%,true,64300000
+21021,Ancestral robe top,+2.0%,true,75700000
+21049,Ancestral robes set,+1.0%,true,154800000
+319,Anchovies,+36.0%,false,64
+20235,Ancient blessing,+26.0%,true,9084
+12490,Ancient bracers,+15.0%,true,17500
+12496,Ancient coif,+7.0%,true,70100
+22302,Ancient effigy,+0.0%,true,8000000
+21807,Ancient emblem,+0.0%,true,496600
+11061,Ancient mace,+14.0%,true,3143
+22299,Ancient medallion,+0.0%,true,4000000
+12621,Ancient page 1,+14.0%,true,189900
+12623,Ancient page 3,+29.0%,true,189900
+12460,Ancient platebody,+12.0%,false,48100
+12462,Ancient platelegs,+5.0%,false,45700
+22305,Ancient relic,+0.0%,true,15900000
+12195,Ancient robe legs,+21.0%,true,91000
+12193,Ancient robe top,+12.0%,true,123400
 21813,Ancient statuette,+0.0%,true,2000000
-12201,Ancient stole,+47.0%,true,8111
-21810,Ancient totem,+0.0%,true,991400
-22246,Anguish ornament kit,+8.0%,true,12500000
-12775,Annakarl teleport,+10.0%,true,2193
-1540,Anti-dragon shield,+5.0%,false,75
-11475,Anti-poison supermix(1),+9.0%,true,1895
-12911,Anti-venom(1),+14.0%,true,917
-12909,Anti-venom(2),+14.0%,true,1894
-12907,Anti-venom(3),+36.0%,true,2817
-12905,Anti-venom(4),+61.0%,true,3921
-5956,Antidote++(2),+5.0%,true,220
-11507,Antifire mix(1),+3.0%,true,451
-175,Antipoison(3),+7.0%,false,197
-2446,Antipoison(4),+11.0%,false,314
-2323,Apple pie,+30.0%,false,207
-5386,Apples(5),+116.0%,true,1679
-12825,Arcane spirit shield,+8.0%,true,126600000
-20251,Arceuus banner,+9.0%,true,1399
-3749,Archer helm,+6.0%,true,49800
-6733,Archers ring,+0.0%,true,5900000
-6891,Arena book,+16.0%,true,783
-12506,Armadyl bracers,+4.0%,true,97000
-12510,Armadyl chaps,+30.0%,true,537700
-12261,Armadyl cloak,+19.0%,true,34500
-11785,Armadyl crossbow,+3.0%,true,33000000
-12508,Armadyl d'hide,+4.0%,true,625300
-19930,Armadyl d'hide boots,+11.0%,true,1700000
-13169,Armadyl dragonhide set,+8.0%,true,1400000
-11802,Armadyl godsword,+1.0%,true,15400000
-11826,Armadyl helmet,+11.0%,true,4200000
-12618,Armadyl page 2,+29.0%,true,350400
-12619,Armadyl page 3,+65.0%,true,430300
-12620,Armadyl page 4,+39.0%,true,451100
-12470,Armadyl platebody,+2.0%,false,40800
-12255,Armadyl robe legs,+7.0%,true,86900
-12253,Armadyl robe top,+14.0%,true,92500
-13052,Armadyl rune armour set (lg),+1.0%,false,156100
-12257,Armadyl stole,+86.0%,true,8430
-5785,Asgarnian ale(4),+9.0%,true,4150
-5739,Asgarnian ale(m),+15.0%,true,1077
-592,Ashes,+13.0%,false,33
-2460,Assorted flowers,+6.0%,true,50
-3402,Asyn remains,+10.0%,true,2185
-123,Attack potion(2),+66.0%,true,5
-121,Attack potion(3),+33.0%,true,4
+12201,Ancient stole,+31.0%,true,8995
+21810,Ancient totem,+0.0%,true,991200
+22246,Anguish ornament kit,+2.0%,true,12800000
+20095,Ankou mask,+4.0%,true,10200000
+20098,Ankou top,+0.0%,true,23100000
+20104,Ankou's leggings,+2.0%,true,12200000
+1540,Anti-dragon shield,+5.0%,false,78
+12911,Anti-venom(1),+8.0%,true,888
+12909,Anti-venom(2),+14.0%,true,1916
+12907,Anti-venom(3),+5.0%,true,2488
+5943,Antidote+(4),+5.0%,true,1701
+175,Antipoison(3),+12.0%,false,220
+2446,Antipoison(4),+17.0%,false,327
+5992,Apple mush,+9.0%,true,23
+2323,Apple pie,+12.0%,false,194
+5496,Apple sapling,+17.0%,true,109
+5386,Apples(5),+29.0%,true,1377
+6910,Apprentice wand,+2.0%,true,876700
+12827,Arcane sigil,+2.0%,true,122100000
+12825,Arcane spirit shield,+6.0%,true,127300000
+3749,Archer helm,+15.0%,true,48500
+1464,Archery ticket,+28.0%,true,9
+10810,Arctic pine logs,+29.0%,true,517
+6891,Arena book,+18.0%,true,856
+12506,Armadyl bracers,+7.0%,true,99800
+11828,Armadyl chestplate,+0.0%,true,47800000
+12512,Armadyl coif,+19.0%,true,90500
+12476,Armadyl full helm,+8.0%,false,23900
+20068,Armadyl godsword ornament kit,+3.0%,true,836100
+11826,Armadyl helmet,+17.0%,true,4600000
+12478,Armadyl kiteshield,+3.0%,false,34900
+12474,Armadyl plateskirt,+0.0%,false,38600
+12255,Armadyl robe legs,+5.0%,true,83900
+12253,Armadyl robe top,+7.0%,true,94300
+13052,Armadyl rune armour set (lg),+2.0%,false,158000
+13054,Armadyl rune armour set (sk),+0.0%,false,159500
+12257,Armadyl stole,+32.0%,true,9087
+5785,Asgarnian ale(4),+9.0%,true,4341
+5739,Asgarnian ale(m),+13.0%,true,1117
+5996,Asgarnian hops,+1.0%,true,200
+592,Ashes,+31.0%,false,38
+2460,Assorted flowers,+2.0%,true,50
+3402,Asyn remains,+3.0%,true,2243
+121,Attack potion(3),+25.0%,true,5
 2428,Attack potion(4),+16.0%,true,7
-11238,Baby impling jar,+44.0%,true,2251
-4161,Bag of salt,+5.0%,true,19
 8455,Bagged bluebells,+0.0%,true,17500
-8417,Bagged dead tree,+1.0%,true,1494
-8457,Bagged sunflower,+0.0%,true,5911
-6701,Baked potato,+10.0%,true,125
-19592,Ballista limbs,+0.0%,true,29500
-19601,Ballista spring,+3.0%,true,30000
-1963,Banana,+44.0%,false,75
-5416,Bananas(5),+38.0%,true,506
-4627,Bandit's brew,+29.0%,true,1484
-12498,Bandos bracers,+36.0%,true,46100
-12502,Bandos chaps,+33.0%,true,231000
-11832,Bandos chestplate,+3.0%,true,21700000
-12504,Bandos coif,+0.0%,true,65300
-12500,Bandos d'hide,+10.0%,true,316200
-19924,Bandos d'hide boots,+9.0%,true,1200000
-13167,Bandos dragonhide set,+13.0%,true,674600
-11804,Bandos godsword,+7.0%,true,11900000
-20071,Bandos godsword ornament kit,+17.0%,true,2300000
-11812,Bandos hilt,+0.0%,true,11500000
-12488,Bandos kiteshield,+3.0%,false,35100
-12482,Bandos platelegs,+1.0%,false,39400
-12484,Bandos plateskirt,+0.0%,false,38200
-12267,Bandos robe legs,+7.0%,true,77700
-12265,Bandos robe top,+21.0%,true,99000
-12269,Bandos stole,+104.0%,true,10000
-11834,Bandos tassets,+1.0%,true,34700000
-10129,Barb-tail harpoon,+6.0%,true,16
-3239,Bark,+1.0%,true,327
-3216,Barrel,+2.0%,true,223
-22603,Basalt,+17.0%,true,1222
-5376,Basket,+100.0%,true,2
-22470,Bastion potion(1),+22.0%,true,1962
-22467,Bastion potion(2),+24.0%,true,3945
-22949,Battlefront teleport,+8.0%,true,1757
-22458,Battlemage potion(1),+27.0%,true,1084
-22455,Battlemage potion(2),+16.0%,true,1720
-22452,Battlemage potion(3),+31.0%,true,3817
-22449,Battlemage potion(4),+2.0%,true,5622
-1391,Battlestaff,+6.0%,true,8529
-948,Bear fur,+19.0%,false,43
-8516,Beer barrel,+6.0%,true,16
-1919,Beer glass,+26.0%,false,43
-3751,Berserker helm,+2.0%,true,46100
-11128,Berserker necklace,+2.0%,true,3000000
-6737,Berserker ring,+6.0%,true,3900000
-5521,Binding necklace,+1.0%,true,910
-21512,Bird house,+1.0%,true,546
-5075,Bird nest,+45.0%,true,2931
-1313,Black 2h sword,+3.0%,false,964
-1367,Black battleaxe,+41.0%,false,735
-2635,Black beret,+41.0%,true,81000
-7327,Black boater,+7.0%,true,2732
-4125,Black boots,+1.0%,true,204
-1019,Black cape,+7.0%,false,292
-2503,Black d'hide body,+1.0%,true,7664
-12385,Black d'hide body (t),+2.0%,true,30700
-2497,Black d'hide chaps,+4.0%,true,5686
-1217,Black dagger,+8.0%,false,87
-3093,Black dart,+7.0%,true,612
+8417,Bagged dead tree,+1.0%,true,1486
+8427,Bagged yew tree,+0.0%,true,21800
+6701,Baked potato,+7.0%,true,133
+19592,Ballista limbs,+1.0%,true,29700
+19601,Ballista spring,+1.0%,true,29500
+5416,Bananas(5),+6.0%,true,495
+4627,Bandit's brew,+25.0%,true,1676
+12498,Bandos bracers,+29.0%,true,49400
+12504,Bandos coif,+19.0%,true,72700
+12486,Bandos full helm,+0.0%,false,23900
+20071,Bandos godsword ornament kit,+56.0%,true,3100000
+12613,Bandos page 1,+4.0%,true,2439
+12480,Bandos platebody,+3.0%,false,45400
+12482,Bandos platelegs,+0.0%,false,39500
+12267,Bandos robe legs,+3.0%,true,72500
+12265,Bandos robe top,+28.0%,true,98100
+12269,Bandos stole,+22.0%,true,9687
+10129,Barb-tail harpoon,+26.0%,true,19
+22603,Basalt,+1.0%,true,993
+22470,Bastion potion(1),+0.0%,true,1954
+530,Bat bones,+10.0%,true,255
+22458,Battlemage potion(1),+19.0%,true,1149
+22455,Battlemage potion(2),+16.0%,true,1871
+22452,Battlemage potion(3),+27.0%,true,4144
+22449,Battlemage potion(4),+2.0%,true,7108
+1391,Battlestaff,+1.0%,true,8527
+12245,Beanie,+0.0%,true,7262
+948,Bear fur,+4.0%,false,43
+8516,Beer barrel,+6.0%,true,17
+3803,Beer tankard,+3.0%,true,386
+3751,Berserker helm,+2.0%,true,46900
+305,Big fishing net,+10.0%,true,277
+12355,Big pirate hat,+11.0%,true,74400
+21512,Bird house,+4.0%,true,557
+5075,Bird nest,+21.0%,true,3098
+1367,Black battleaxe,+139.0%,false,1260
+2635,Black beret,+43.0%,true,90800
+7327,Black boater,+6.0%,true,2566
+4125,Black boots,+4.0%,true,227
+4788,Black brutal,+1.0%,true,181
+2503,Black d'hide body,+0.0%,true,7628
+2497,Black d'hide chaps,+1.0%,true,5617
+12387,Black d'hide chaps (t),+15.0%,true,148000
+22284,Black d'hide shield,+1.0%,true,20300
+1217,Black dagger,+13.0%,false,94
+3093,Black dart,+8.0%,true,639
 5631,Black dart(p+),+6.0%,true,16
 5638,Black dart(p++),+9.0%,true,23
-6752,Black desert robe,+2.0%,true,1370
-2509,Black dragon leather,+7.0%,true,3424
-12524,Black dragon mask,+3.0%,true,22600
-1747,Black dragonhide,+11.0%,true,3299
-12871,Black dragonhide set,+1.0%,true,16600
-2587,Black full helm (t),+20.0%,false,34200
-3196,Black halberd,+1.0%,true,6876
-10306,Black helm (h1),+27.0%,false,3786
-10308,Black helm (h2),+2.0%,false,2687
-10312,Black helm (h4),+12.0%,false,2900
-10314,Black helm (h5),+14.0%,false,2918
-874,Black knife(p),+4.0%,true,154
-5658,Black knife(p+),+4.0%,true,85
-5665,Black knife(p++),+9.0%,true,302
-1297,Black longsword,+11.0%,false,423
-1426,Black mace,+23.0%,false,133
-8921,Black mask,+9.0%,true,1700000
-8901,Black mask (10),+10.0%,true,1800000
-1151,Black med helm,+1.0%,false,351
-4821,Black nails,+11.0%,true,513
-2583,Black platebody (t),+0.0%,false,51000
-2585,Black platelegs (t),+81.0%,false,49200
-581,Black robe,+9.0%,false,1549
-10148,Black salamander,+50.0%,true,200
-7338,Black shield (h2),+1.0%,false,9510
-1015,Black skirt,+15.0%,false,30
-12445,Black skirt (g),+4.0%,false,41700
-12447,Black skirt (t),+19.0%,false,33500
-1179,Black sq shield,+5.0%,false,472
-1283,Black sword,+37.0%,false,306
-12992,Black trimmed set (lg),+12.0%,false,208500
-20266,Black unicorn mask,+18.0%,true,45100
-1341,Black warhammer,+2.0%,false,382
-2633,Blue beret,+35.0%,true,19000
-630,Blue boots,+28.0%,true,554
-2499,Blue d'hide body,+1.0%,true,5216
-7376,Blue d'hide body (t),+1.0%,true,5332
-2493,Blue d'hide chaps,+2.0%,true,2345
-22278,Blue d'hide shield,+5.0%,true,4524
-2505,Blue dragon leather,+0.0%,true,2080
-243,Blue dragon scale,+2.0%,true,613
-1751,Blue dragonhide,+4.0%,true,1937
-12867,Blue dragonhide set,+11.0%,true,10300
-10089,Blue feather,+25.0%,true,20
-7331,Blue firelighter,+13.0%,true,41
-2464,Blue flowers,+40.0%,true,14
-1042,Blue partyhat,+6.0%,false,20500
-640,Blue robe top,+7.0%,true,309
-1011,Blue skirt,+69.0%,false,90
-579,Blue wizard hat,+25.0%,false,157
-7396,Blue wizard hat (t),+0.0%,false,85600
-7392,Blue wizard robe (t),+9.0%,false,82100
-2064,Blurberry special,+17.0%,true,3789
-1446,Body talisman,+14.0%,false,578
-8790,Bolt of cloth,+8.0%,true,945
-4740,Bolt rack,+11.0%,true,69
-8872,Bone dagger,+4.0%,true,2406
-5016,Bone spear,+15.0%,true,473
-13159,Book of darkness page set,+8.0%,true,728400
-13157,Book of law page set,+27.0%,true,1600000
-22951,Boots of brimstone,+332.0%,true,814300
-19662,Botanical pie,+0.0%,true,1125
-7919,Bottle of wine,+8.0%,true,232
-22994,Bottomless compost bucket,+81.0%,true,2200000
-1921,Bowl of water,+6.0%,false,47
-11074,Bracelet of clay,+1.0%,true,601
-21817,Bracelet of ethereum (uncharged),+1.0%,true,44200
-983,Brass key,+7.0%,false,254
-1009,Brass necklace,+2.0%,false,41
-22975,Brimstone ring,+20.0%,true,7300000
-11875,Broad bolts,+4.0%,true,64
-22963,Broken dragon hasta,+12.0%,true,161900
-1307,Bronze 2h sword,+46.0%,false,38
-883,Bronze arrow(p),+4.0%,true,49
-1351,Bronze axe,+136.0%,false,45
-1375,Bronze battleaxe,+40.0%,false,21
-878,Bronze bolts (p),+13.0%,true,76
+2509,Black dragon leather,+4.0%,true,3397
+12524,Black dragon mask,+9.0%,true,22200
+1747,Black dragonhide,+4.0%,true,3247
+12871,Black dragonhide set,+1.0%,true,16700
+2595,Black full helm (g),+1.0%,false,137700
+2587,Black full helm (t),+8.0%,false,33600
+10306,Black helm (h1),+30.0%,false,4342
+10312,Black helm (h4),+22.0%,false,3234
+10314,Black helm (h5),+16.0%,false,3043
+1195,Black kiteshield,+2.0%,false,853
+874,Black knife(p),+0.0%,true,154
+5658,Black knife(p+),+5.0%,true,90
+5665,Black knife(p++),+8.0%,true,315
+1297,Black longsword,+15.0%,false,450
+1426,Black mace,+31.0%,false,166
+1151,Black med helm,+3.0%,false,360
+1125,Black platebody,+1.0%,false,3883
+2591,Black platebody (g),+12.0%,false,311500
+2585,Black platelegs (t),+18.0%,false,41000
+10148,Black salamander,+35.0%,true,238
+12445,Black skirt (g),+2.0%,false,38500
+12447,Black skirt (t),+20.0%,false,40800
+4580,Black spear,+4.0%,true,178
+1179,Black sq shield,+13.0%,false,494
+1283,Black sword,+13.0%,false,274
+21730,Black tourmaline core,+3.0%,true,5700000
+20266,Black unicorn mask,+7.0%,true,47500
+1341,Black warhammer,+13.0%,false,408
+12449,Black wizard robe (g),+2.0%,false,491600
+19988,Blacksmith's helm,+6.0%,true,31400
+3345,Blamish myre shell,+2.0%,true,75
+12831,Blessed spirit shield,+12.0%,true,1300000
+565,Blood rune,+6.0%,true,278
+3329,Blood'n'tar snelm,+0.0%,true,380
+2633,Blue beret,+51.0%,true,23200
+630,Blue boots,+16.0%,true,552
+1021,Blue cape,+0.0%,false,307
+2499,Blue d'hide body,+1.0%,true,5276
+7376,Blue d'hide body (t),+4.0%,true,5520
+2493,Blue d'hide chaps,+2.0%,true,2381
+2487,Blue d'hide vamb,+2.0%,true,1607
+12757,Blue dark bow paint,+9.0%,true,127400
+12867,Blue dragonhide set,+2.0%,true,10400
+1767,Blue dye,+9.0%,false,310
+10430,Blue elegant skirt,+12.0%,true,2202
+10089,Blue feather,+43.0%,true,23
+7331,Blue firelighter,+20.0%,true,42
+2464,Blue flowers,+23.0%,true,16
+640,Blue robe top,+35.0%,true,356
+1011,Blue skirt,+39.0%,false,102
+7388,Blue skirt (t),+17.0%,false,27900
+579,Blue wizard hat,+41.0%,false,194
+7396,Blue wizard hat (t),+20.0%,false,85900
+7390,Blue wizard robe (g),+5.0%,false,313800
+7392,Blue wizard robe (t),+1.0%,false,68200
+2064,Blurberry special,+3.0%,true,3320
+1446,Body talisman,+35.0%,false,665
+8872,Bone dagger,+20.0%,true,2834
+8878,Bone dagger (p++),+28.0%,true,11800
+5016,Bone spear,+14.0%,true,493
+13153,Book of balance page set,+10.0%,true,25900
+13159,Book of darkness page set,+1.0%,true,696200
+22951,Boots of brimstone,+310.0%,true,1500000
+23037,Boots of stone,+0.0%,true,305
+7919,Bottle of wine,+6.0%,true,234
+12846,Bounty teleport scroll,+1.0%,true,1700000
+1923,Bowl,+5.0%,false,36
+11074,Bracelet of clay,+5.0%,true,591
+983,Brass key,+1.0%,false,264
+1009,Brass necklace,+18.0%,false,52
+12335,Briefcase,+38.0%,true,315500
+22975,Brimstone ring,+27.0%,true,7200000
+1307,Bronze 2h sword,+2.0%,false,40
+5622,Bronze arrow(p++),+5.0%,true,20
+39,Bronze arrowtips,+33.0%,true,4
+1351,Bronze axe,+79.0%,false,52
+1375,Bronze battleaxe,+4.0%,false,22
+878,Bronze bolts (p),+12.0%,true,79
 6061,Bronze bolts (p+),+2.0%,true,111
-6062,Bronze bolts (p++),+12.0%,true,201
-4119,Bronze boots,+14.0%,true,519
-4773,Bronze brutal,+5.0%,true,101
-1103,Bronze chainbody,+61.0%,false,34
-3095,Bronze claws,+19.0%,true,25
-9174,Bronze crossbow,+15.0%,true,199
-1205,Bronze dagger,+88.0%,false,32
+6062,Bronze bolts (p++),+8.0%,true,201
+9375,Bronze bolts (unf),+12.0%,true,9
+4119,Bronze boots,+43.0%,true,566
+4773,Bronze brutal,+6.0%,true,100
+3095,Bronze claws,+17.0%,true,27
+9174,Bronze crossbow,+50.0%,true,246
+9454,Bronze crossbow (u),+9.0%,true,12
+1205,Bronze dagger,+6.0%,false,32
 806,Bronze dart,+9.0%,true,12
-812,Bronze dart(p),+10.0%,true,11
 5635,Bronze dart(p++),+5.0%,true,18
-1155,Bronze full helm,+120.0%,false,22
+1155,Bronze full helm,+116.0%,false,26
+12211,Bronze full helm (g),+20.0%,false,51100
 3190,Bronze halberd,+4.0%,true,302
-19570,Bronze javelin heads,+12.0%,true,27
-1189,Bronze kiteshield,+225.0%,false,26
+11367,Bronze hasta,+10.0%,true,41
+825,Bronze javelin,+100.0%,true,2
+1189,Bronze kiteshield,+93.0%,false,29
+12213,Bronze kiteshield (g),+1.0%,false,50200
 870,Bronze knife(p),+2.0%,true,37
-5661,Bronze knife(p++),+4.0%,true,67
-1291,Bronze longsword,+110.0%,false,21
-1422,Bronze mace,+233.0%,false,20
-1139,Bronze med helm,+77.0%,false,32
-1265,Bronze pickaxe,+46.0%,false,107
-1117,Bronze platebody,+56.0%,false,36
-1075,Bronze platelegs,+106.0%,false,97
-12207,Bronze platelegs (g),+11.0%,false,54900
-1087,Bronze plateskirt,+117.0%,false,37
-12209,Bronze plateskirt (g),+1.0%,false,3365
-1321,Bronze scimitar,+50.0%,false,12
-12960,Bronze set (lg),+89.0%,false,273
-12962,Bronze set (sk),+6.0%,false,124
-1237,Bronze spear,+45.0%,true,514
+5654,Bronze knife(p+),+6.0%,true,33
+5661,Bronze knife(p++),+5.0%,true,71
+1291,Bronze longsword,+31.0%,false,25
+1422,Bronze mace,+42.0%,false,20
+1139,Bronze med helm,+19.0%,false,31
+1265,Bronze pickaxe,+12.0%,false,90
+1117,Bronze platebody,+3.0%,false,31
+1075,Bronze platelegs,+1.0%,false,71
+1087,Bronze plateskirt,+10.0%,false,31
+12209,Bronze plateskirt (g),+18.0%,false,3583
+1321,Bronze scimitar,+100.0%,false,22
+12960,Bronze set (lg),+28.0%,false,283
+12962,Bronze set (sk),+38.0%,false,156
+1237,Bronze spear,+17.0%,true,519
 5718,Bronze spear(p++),+7.0%,true,30
-1173,Bronze sq shield,+118.0%,false,24
-1277,Bronze sword,+122.0%,false,20
-1337,Bronze warhammer,+85.0%,false,26
-1794,Bronze wire,+3.0%,true,147
-1757,Brown apron,+100.0%,false,70
-22372,Bryophyta's essence,+31.0%,true,124800
-1925,Bucket,+16.0%,false,7
-19991,Bucket helm,+8.0%,true,43100
-1927,Bucket of milk,+37.0%,false,37
-30,Bucket of wax,+14.0%,true,460
-20272,Cabbage round shield,+6.0%,true,6037
-22443,Cadantine blood potion (unf),+19.0%,true,4242
-5301,Cadantine seed,+38.0%,true,1601
-753,Cadava berries,+44.0%,false,52
-5102,Cadavaberry seed,+100.0%,true,2
-1891,Cake,+20.0%,false,164
-1887,Cake tin,+37.0%,false,51
-21543,Calcite,+20.0%,true,48
-36,Candle,+42.0%,true,190
-4532,Candle lantern,+4.0%,true,7066
-2,Cannonball,+3.0%,true,197
-12776,Carrallangar teleport,+13.0%,true,2363
-8566,Carved oak bench,+5.0%,true,58
-405,Casket,+5.0%,true,974
-11079,Castle wars bracelet(3),+0.0%,false,825
-12361,Cat mask,+3.0%,true,4722
-22935,Celastrus bark,+6.0%,true,8461
-22856,Celastrus sapling,+70.0%,true,73300
-22869,Celastrus seed,+64.0%,true,70000
-1452,Chaos talisman,+29.0%,true,538
-20238,Charge dragonstone jewellery scroll,+4.0%,true,396
-2259,Cheese+tom batta,+5.0%,true,710
-5755,Chef's delight,+37.0%,true,3870
-5757,Chef's delight(m),+23.0%,true,52100
-1949,Chef's hat,+83.0%,false,211
-7062,Chilli con carne,+5.0%,true,20
+1173,Bronze sq shield,+25.0%,false,25
+1277,Bronze sword,+25.0%,false,20
+1337,Bronze warhammer,+8.0%,false,27
+1757,Brown apron,+102.0%,false,77
+2520,Brown toy horsey,+1.0%,false,194
+22372,Bryophyta's essence,+25.0%,true,136400
+22368,Bryophyta's staff (uncharged),+3.0%,true,2000000
+19991,Bucket helm,+41.0%,true,55500
+20059,Bucket helm (g),+15.0%,true,2500000
+30,Bucket of wax,+27.0%,true,540
+1965,Cabbage,+63.0%,false,31
+20272,Cabbage round shield,+94.0%,true,9638
+5478,Cabbages(10),+16.0%,true,519
+22443,Cadantine blood potion (unf),+22.0%,true,4761
+1891,Cake,+11.0%,false,147
+21543,Calcite,+37.0%,true,62
+36,Candle,+27.0%,true,182
+10,Cannon barrels,+1.0%,true,187800
+6,Cannon base,+1.0%,true,188200
+12,Cannon furnace,+1.0%,true,187900
+8,Cannon stand,+1.0%,true,188400
+2,Cannonball,+2.0%,true,176
+8566,Carved oak bench,+9.0%,true,60
+11079,Castle wars bracelet(3),+3.0%,false,836
+12361,Cat mask,+7.0%,true,4711
+10981,Cave goblin wire,+6.0%,true,923
+11326,Caviar,+18.0%,true,162
+22935,Celastrus bark,+4.0%,true,8481
+1452,Chaos talisman,+32.0%,true,592
+1985,Cheese,+30.0%,false,81
+2259,Cheese+tom batta,+7.0%,true,729
+5755,Chef's delight,+58.0%,true,4072
+5757,Chef's delight(m),+5.0%,true,46300
+1949,Chef's hat,+32.0%,false,272
+1755,Chisel,+10.0%,false,32
 2074,Choc saturday,+9.0%,true,24
-6794,Choc-ice,+7.0%,true,97
-2209,Chocchip crunchies,+4.0%,true,1166
-1897,Chocolate cake,+8.0%,false,248
-1871,Chopped onion,+10.0%,true,11
-7086,Chopped tuna,+2.0%,true,186
-962,Christmas cracker,+42.0%,false,26800
+6794,Choc-ice,+18.0%,true,107
+2209,Chocchip crunchies,+8.0%,true,1224
+1897,Chocolate cake,+0.0%,false,246
+1871,Chopped onion,+9.0%,true,12
+1869,Chopped tomato,+9.0%,true,12
+7086,Chopped tuna,+2.0%,true,190
 8518,Cider barrel,+2.0%,true,5163
-3188,Cleaning cloth,+30.0%,true,250
-3105,Climbing boots,+0.0%,true,490
-2026,Cocktail glass,+14.0%,true,231
-2023,Cocktail guide,+63.0%,true,18
-5974,Coconut,+191.0%,true,1502
-5935,Coconut milk,+32.0%,true,809
-339,Cod,+45.0%,true,16
-1169,Coif,+15.0%,false,15
-11126,Combat bracelet,+0.0%,true,12400
-11118,Combat bracelet(4),+0.0%,true,12500
-11972,Combat bracelet(6),+1.0%,true,12600
+12789,Clue box,+12.0%,true,25100
+2026,Cocktail glass,+14.0%,true,236
+2023,Cocktail guide,+64.0%,true,23
+2025,Cocktail shaker,+3.0%,true,100
+5974,Coconut,+52.0%,true,1574
+5935,Coconut milk,+31.0%,true,926
+1169,Coif,+20.0%,false,18
 11447,Combat mix(1),+3.0%,true,303
-9739,Combat potion(4),+3.0%,true,1002
-22829,Common tench,+1.0%,true,55
-4827,Comp ogre bow,+2.0%,true,1084
-6476,Compost potion(1),+1.0%,true,183
-6474,Compost potion(2),+5.0%,true,429
-6470,Compost potion(4),+10.0%,true,917
-2140,Cooked chicken,+17.0%,false,55
-7521,Cooked crab meat,+5.0%,true,195
-7568,Cooked jubbly,+15.0%,true,1462
-3144,Cooked karambwan,+6.0%,true,716
-2142,Cooked meat,+19.0%,false,37
-2343,Cooked oomlie wrap,+3.0%,true,5555
-1955,Cooking apple,+100.0%,false,260
-7466,Cornflour,+11.0%,false,234
-1454,Cosmic talisman,+1.0%,true,601
-1739,Cowhide,+5.0%,false,117
-632,Cream boots,+5.0%,true,372
-20240,Crier coat,+16.0%,true,11300
-837,Crossbow,+5.0%,false,108
-9438,Crossbow string,+9.0%,true,193
-2165,Crunchy tray,+11.0%,true,50
-6693,Crushed nest,+42.0%,true,3058
-8628,Crystal of power,+4.0%,true,4552
-4207,Crystal seed,+55.0%,true,6905
-6729,Dagannoth bones,+11.0%,true,9220
-12777,Dareeyak teleport,+5.0%,true,2491
-19970,Dark bow tie,+5.0%,true,619800
-2641,Dark cavalier,+26.0%,true,2999
-11940,Dark fishing bait,+50.0%,true,3
-10127,Dashing kebbit fur,+13.0%,true,1853
-1456,Death talisman,+122.0%,true,8481
-5547,Death tiara,+45.0%,true,6995
-2432,Defence potion(4),+0.0%,true,358
-6390,Desert legs,+37.0%,true,968
-6386,Desert robes,+12.0%,true,910
-6388,Desert top,+27.0%,true,833
-6384,Desert top,+17.0%,true,803
-9340,Diamond bolts,+1.0%,true,376
-9243,Diamond bolts (e),+1.0%,true,339
-11092,Diamond bracelet,+0.0%,true,2093
-21969,Diamond dragon bolts,+13.0%,true,1624
-21946,Diamond dragon bolts (e),+11.0%,true,1649
-1662,Diamond necklace,+0.0%,false,2067
-1643,Diamond ring,+0.0%,false,1958
-21015,Dinh's bulwark,+4.0%,true,5900000
-981,Disk of returning,+7.0%,false,6064
-8880,Dorgeshuun crossbow,+8.0%,true,2669
-21882,Dragon armour set (lg),+3.0%,true,79100000
-21885,Dragon armour set (sk),+4.0%,true,43000000
-11227,Dragon arrow(p),+1.0%,true,1367
-6739,Dragon axe,+85.0%,true,91900
-1377,Dragon battleaxe,+0.0%,true,119400
+9745,Combat potion(1),+1.0%,true,276
+9741,Combat potion(3),+5.0%,true,732
+9739,Combat potion(4),+4.0%,true,1048
+22829,Common tench,+11.0%,true,58
+6032,Compost,+4.0%,true,26
+6476,Compost potion(1),+4.0%,true,189
+6474,Compost potion(2),+3.0%,true,432
+6470,Compost potion(4),+0.0%,true,838
+2140,Cooked chicken,+2.0%,false,42
+7521,Cooked crab meat,+2.0%,true,196
+7568,Cooked jubbly,+20.0%,true,1603
+2142,Cooked meat,+12.0%,false,37
+1955,Cooking apple,+21.0%,false,219
+7466,Cornflour,+13.0%,false,256
+1454,Cosmic talisman,+28.0%,true,711
+632,Cream boots,+13.0%,true,425
+9438,Crossbow string,+21.0%,true,218
+8496,Crude chair,+17.0%,true,40
+6693,Crushed nest,+20.0%,true,3197
+21975,Crushed superior dragon bones,+1.0%,true,12300
+4207,Crystal seed,+22.0%,true,7056
+1978,Cup of tea,+26.0%,true,19
+6155,Dagannoth hide,+5.0%,true,428
+12777,Dareeyak teleport,+5.0%,true,2339
+19970,Dark bow tie,+0.0%,true,642300
+2641,Dark cavalier,+1.0%,true,2777
+1456,Death talisman,+38.0%,true,7971
+5547,Death tiara,+24.0%,true,7440
+12540,Deerstalker,+18.0%,true,18300
+6390,Desert legs,+8.0%,true,951
+1835,Desert robe,+2.0%,true,102
+6388,Desert top,+49.0%,true,883
+6384,Desert top,+30.0%,true,1013
+12877,Dharok's armour set,+5.0%,true,3900000
+4718,Dharok's greataxe,+6.0%,true,620700
+4890,Dharok's greataxe 0,+7.0%,true,570000
+4716,Dharok's helm,+11.0%,true,381100
+4884,Dharok's helm 0,+12.0%,true,350100
+4720,Dharok's platebody,+4.0%,true,1500000
+4896,Dharok's platebody 0,+4.0%,true,1500000
+4722,Dharok's platelegs,+4.0%,true,1400000
+4902,Dharok's platelegs 0,+4.0%,true,1300000
+1601,Diamond,+2.0%,false,2011
+1700,Diamond amulet,+0.0%,false,2056
+9192,Diamond bolt tips,+1.0%,true,179
+9243,Diamond bolts (e),+4.0%,true,358
+11092,Diamond bracelet,+3.0%,true,2118
+21969,Diamond dragon bolts,+22.0%,true,1655
+21946,Diamond dragon bolts (e),+24.0%,true,1743
+1662,Diamond necklace,+2.0%,false,2116
+1643,Diamond ring,+3.0%,false,2037
+21015,Dinh's bulwark,+2.0%,true,5700000
+981,Disk of returning,+4.0%,false,6193
+21143,Dodgy necklace,+5.0%,true,1026
+19727,Double eye patch,+0.0%,true,38400
+7158,Dragon 2h sword,+0.0%,true,133400
+21882,Dragon armour set (lg),+7.0%,true,81800000
+6739,Dragon axe,+66.0%,true,85500
 8524,Dragon bitter,+4.0%,true,154
-1911,Dragon bitter,+23.0%,true,330
-5745,Dragon bitter(m),+5.0%,true,255
-21905,Dragon bolts,+19.0%,true,1425
-21924,Dragon bolts (p),+3.0%,true,1073
+1911,Dragon bitter,+25.0%,true,329
+21905,Dragon bolts,+24.0%,true,1437
+21924,Dragon bolts (p),+3.0%,true,1115
 21926,Dragon bolts (p+),+3.0%,true,1067
-21928,Dragon bolts (p++),+6.0%,true,2103
-21930,Dragon bolts (unf),+17.0%,true,1451
-11840,Dragon boots,+26.0%,true,490900
+21928,Dragon bolts (p++),+5.0%,true,2178
+21930,Dragon bolts (unf),+23.0%,true,1449
 1215,Dragon dagger,+0.0%,true,17600
-1231,Dragon dagger(p),+0.0%,true,18400
-5680,Dragon dagger(p+),+0.0%,true,17700
-5698,Dragon dagger(p++),+5.0%,true,26100
-11231,Dragon dart(p),+0.0%,true,3586
-11335,Dragon full helm,+5.0%,true,40700000
-22978,Dragon hunter lance,+332.0%,true,78800000
-19484,Dragon javelin,+11.0%,true,857
-19582,Dragon javelin heads,+4.0%,true,995
-19490,Dragon javelin(p++),+2.0%,true,2561
-21895,Dragon kiteshield,+13.0%,true,35200000
-22239,Dragon kiteshield ornament kit,+19.0%,true,2500000
+22978,Dragon hunter lance,+156.0%,true,97100000
+11256,Dragon impling jar,+2.0%,true,299200
+19484,Dragon javelin,+5.0%,true,973
+19582,Dragon javelin heads,+1.0%,true,985
+21895,Dragon kiteshield,+8.0%,true,36700000
+22239,Dragon kiteshield ornament kit,+19.0%,true,2700000
 1305,Dragon longsword,+0.0%,true,59500
-1149,Dragon med helm,+1.0%,true,59200
-22103,Dragon metal lump,+26.0%,true,7500000
+1434,Dragon mace,+1.0%,true,30100
+1149,Dragon med helm,+0.0%,true,59400
+22103,Dragon metal lump,+6.0%,true,7300000
 22097,Dragon metal shard,+0.0%,true,1800000
-22100,Dragon metal slice,+9.0%,true,2100000
-11920,Dragon pickaxe,+15.0%,true,5800000
-12800,Dragon pickaxe upgrade kit,+2.0%,true,69800
-4585,Dragon plateskirt,+0.0%,true,161500
+22100,Dragon metal slice,+4.0%,true,2100000
+11920,Dragon pickaxe,+1.0%,true,6000000
+4087,Dragon platelegs,+0.0%,true,161500
 4587,Dragon scimitar,+0.0%,true,59700
-1249,Dragon spear,+1.0%,true,37600
-5730,Dragon spear(p++),+10.0%,true,46700
-13576,Dragon warhammer,+12.0%,true,59300000
-22866,Dragonfruit sapling,+184.0%,true,156400
-22877,Dragonfruit tree seed,+178.0%,true,152500
-1683,Dragonstone amulet (u),+1.0%,true,12100
-9244,Dragonstone bolts (e),+10.0%,true,459
-21971,Dragonstone dragon bolts,+2.0%,true,1615
-21948,Dragonstone dragon bolts (e),+17.0%,true,1274
-1645,Dragonstone ring,+2.0%,true,12100
-22957,Drake's claw,+11.0%,true,1400000
-21652,Drift net,+8.0%,true,2149
-11200,Dwarven helmet,+19.0%,true,51000
-5747,Dwarven stout(m),+46.0%,true,17500
-4166,Earmuffs,+27.0%,true,362
-1399,Earth battlestaff,+0.0%,true,9065
-11244,Earth impling jar,+44.0%,true,2140
-1440,Earth talisman,+11.0%,false,266
-403,Edible seaweed,+58.0%,true,46
-21140,Efaritay's aid,+31.0%,true,1426
-1944,Egg,+3.0%,false,57
-12410,Elf camp teleport,+42.0%,true,5195
-12817,Elysian spirit shield,+10.0%,true,561800000
-11076,Emerald bracelet,+3.0%,true,745
-1639,Emerald ring,+4.0%,false,717
+20002,Dragon scimitar ornament kit,+2.0%,true,1300000
+1249,Dragon spear,+0.0%,true,38100
+5716,Dragon spear(p+),+0.0%,true,46200
+5730,Dragon spear(p++),+10.0%,true,47800
+12532,Dragon sq shield ornament kit,+19.0%,true,6953
+13576,Dragon warhammer,+2.0%,true,59900000
+22003,Dragonfire ward,+0.0%,true,38000000
+22866,Dragonfruit sapling,+40.0%,true,160300
+22877,Dragonfruit tree seed,+39.0%,true,158200
+1615,Dragonstone,+0.0%,true,12100
+9193,Dragonstone bolt tips,+1.0%,true,246
+9341,Dragonstone bolts,+12.0%,true,618
+9244,Dragonstone bolts (e),+17.0%,true,486
+11115,Dragonstone bracelet,+1.0%,true,12300
+21971,Dragonstone dragon bolts,+17.0%,true,1665
+21948,Dragonstone dragon bolts (e),+14.0%,true,1511
+1645,Dragonstone ring,+0.0%,true,12000
+21652,Drift net,+9.0%,true,2218
+538,Druid's robe,+2.0%,true,593
+12863,Dwarf cannon set,+0.0%,true,755800
+11200,Dwarven helmet,+7.0%,true,44700
+2126,Dwellberries,+5.0%,true,71
+1399,Earth battlestaff,+0.0%,true,9064
+1440,Earth talisman,+14.0%,false,331
+21140,Efaritay's aid,+52.0%,true,1799
+5516,Elemental talisman,+18.0%,true,5633
+12410,Elf camp teleport,+21.0%,true,5559
+12817,Elysian spirit shield,+5.0%,true,569000000
+1696,Emerald amulet,+10.0%,false,687
+1677,Emerald amulet (u),+6.0%,false,685
+11076,Emerald bracelet,+3.0%,true,753
+21942,Emerald dragon bolts (e),+4.0%,true,1338
+1658,Emerald necklace,+2.0%,false,737
+4527,Empty candle lantern,+50.0%,true,3
+1980,Empty cup,+83.0%,true,11
 6667,Empty fishbowl,+100.0%,true,2
-4525,Empty oil lamp,+50.0%,true,3
-5350,Empty plant pot,+150.0%,true,5
-8017,Enchant emerald or jade,+2.0%,true,319
-11455,Energy mix(1),+3.0%,true,254
-13508,Ensouled abyssal head,+4.0%,true,5679
-13505,Ensouled aviansie head,+21.0%,true,6983
-13496,Ensouled bloodveld head,+11.0%,true,3797
-13493,Ensouled dagannoth head,+5.0%,true,2978
-13502,Ensouled demon head,+9.0%,true,4688
-13511,Ensouled dragon head,+5.0%,true,8058
-13475,Ensouled giant head,+4.0%,true,1172
-13457,Ensouled minotaur head,+3.0%,true,654
-13451,Ensouled monkey head,+17.0%,true,408
-13484,Ensouled troll head,+0.0%,true,1893
-13499,Ensouled tzhaar head,+13.0%,true,4253
-13466,Ensouled unicorn head,+8.0%,true,1184
-11246,Essence impling jar,+7.0%,true,2534
-13235,Eternal boots,+15.0%,true,5600000
-13227,Eternal crystal,+33.0%,true,4700000
-21270,Eternal gem,+3.0%,true,4800000
-20442,Evil chicken legs,+7.0%,true,1800000
-21177,Expeditious bracelet,+12.0%,true,872
+4525,Empty oil lamp,+100.0%,true,4
+5350,Empty plant pot,+25.0%,true,5
+7400,Enchanted hat,+10.0%,true,11600
+7398,Enchanted robe,+11.0%,true,62200
+7399,Enchanted top,+0.0%,true,81900
+3010,Energy potion(3),+13.0%,false,419
+3008,Energy potion(4),+10.0%,false,579
+13505,Ensouled aviansie head,+14.0%,true,6665
+13463,Ensouled bear head,+7.0%,true,936
+13496,Ensouled bloodveld head,+6.0%,true,4093
+13472,Ensouled chaos druid head,+28.0%,true,1179
+13493,Ensouled dagannoth head,+1.0%,true,3036
+13502,Ensouled demon head,+4.0%,true,4981
+13469,Ensouled dog head,+18.0%,true,1027
+13511,Ensouled dragon head,+2.0%,true,8182
+13475,Ensouled giant head,+23.0%,true,1408
+13448,Ensouled goblin head,+6.0%,true,268
+13487,Ensouled horror head,+1.0%,true,2235
+13454,Ensouled imp head,+0.0%,true,859
+13490,Ensouled kalphite head,+20.0%,true,2837
+13451,Ensouled monkey head,+9.0%,true,431
+13478,Ensouled ogre head,+19.0%,true,1573
+13460,Ensouled scorpion head,+9.0%,true,879
+13484,Ensouled troll head,+10.0%,true,2029
+13499,Ensouled tzhaar head,+11.0%,true,4511
+13466,Ensouled unicorn head,+27.0%,true,1297
+13227,Eternal crystal,+1.0%,true,4300000
+20442,Evil chicken legs,+2.0%,true,1900000
+21177,Expeditious bracelet,+4.0%,true,757
+12514,Explorer backpack,+0.0%,true,30800
 11960,Extended antifire mix(2),+4.0%,true,1104
-4164,Facemask,+17.0%,true,410
-4593,Fake beard,+35.0%,true,242
-3373,Fat snail meat,+2.0%,true,1006
-4830,Fayrg bones,+3.0%,true,3998
-11990,Fedora,+35.0%,true,8118
-3470,Fine cloth,+11.0%,true,2892
-1393,Fire battlestaff,+0.0%,true,9079
-1442,Fire talisman,+10.0%,false,2644
-22818,Fish chunks,+85.0%,true,50
-272,Fish food,+2.0%,false,399
-11334,Fish offcuts,+12.0%,true,37
+11957,Extended antifire(1),+5.0%,true,230
+4164,Facemask,+4.0%,true,429
+4593,Fake beard,+19.0%,true,260
+20008,Fancy tiara,+10.0%,true,10800
+3373,Fat snail meat,+1.0%,true,1011
+11990,Fedora,+13.0%,true,7710
+12404,Feldip hills teleport,+105.0%,true,2443
+3470,Fine cloth,+14.0%,true,3176
+1393,Fire battlestaff,+0.0%,true,9071
+272,Fish food,+7.0%,false,414
+7188,Fish pie,+23.0%,true,74
 11477,Fishing mix(2),+3.0%,true,119
-153,Fishing potion(2),+1.0%,true,190
-2438,Fishing potion(4),+15.0%,true,236
-21180,Flamtaer bracelet,+7.0%,true,793
-10394,Flared trousers,+11.0%,true,662900
-2865,Flighted ogre arrow,+29.0%,true,96
-3789,Fremennik black cloak,+4.0%,true,1060
-3779,Fremennik grey cloak,+0.0%,true,939
-3785,Fremennik purple cloak,+7.0%,true,670
-3777,Fremennik red cloak,+2.0%,true,1031
-3783,Fremennik teal cloak,+0.0%,true,939
-3853,Games necklace(8),+6.0%,true,967
-1550,Garlic,+75.0%,false,42
-4668,Garlic powder,+45.0%,true,29
-12778,Ghorrock teleport,+7.0%,true,2249
-2167,Gianne's cook book,+15.0%,true,118
-9846,Gilded cape rack,+9.0%,true,3262
-20149,Gilded chainbody,+2.0%,false,689800
-8594,Gilded clock,+4.0%,true,2724
+10394,Flared trousers,+12.0%,true,725000
+2865,Flighted ogre arrow,+3.0%,true,83
+3789,Fremennik black cloak,+27.0%,true,1258
+3763,Fremennik blue cloak,+3.0%,true,983
+3765,Fremennik green cloak,+10.0%,true,1073
+3779,Fremennik grey cloak,+8.0%,true,1050
+3797,Fremennik hat,+7.0%,true,1284
+3785,Fremennik purple cloak,+5.0%,true,650
+3777,Fremennik red cloak,+9.0%,true,1068
+10826,Fremennik shield,+23.0%,true,1390
+3783,Fremennik teal cloak,+3.0%,true,914
+10954,Frog-leather body,+3.0%,true,921
+7668,Gadderhammer,+6.0%,true,1639
+1550,Garlic,+43.0%,false,33
+4668,Garlic powder,+38.0%,true,36
+12778,Ghorrock teleport,+0.0%,true,2166
+2167,Gianne's cook book,+46.0%,true,144
+20155,Gilded 2h sword,+1.0%,false,2900000
+13038,Gilded armour set (sk),+1.0%,false,6700000
+8574,Gilded bench,+2.0%,true,213800
+9846,Gilded cape rack,+9.0%,true,3419
+20149,Gilded chainbody,+8.0%,false,692400
+8594,Gilded clock,+9.0%,true,2855
 8608,Gilded dresser,+4.0%,true,17600
-8588,Gilded four-poster,+4.0%,true,28600
-3486,Gilded full helm,+4.0%,false,1900000
-9857,Gilded magic wardrobe,+4.0%,true,1602
-3483,Gilded platelegs,+4.0%,false,3800000
-8622,Gilded wardrobe,+4.0%,true,19300
-2019,Gin,+2.0%,true,41
-1785,Glassblowing pipe,+20.0%,true,214
-9472,Gnome goggles,+22.0%,true,14800
-9470,Gnome scarf,+7.0%,true,625700
-10999,Goblin book,+125.0%,true,126
-288,Goblin mail,+56.0%,false,193
-12251,Goblin mask,+6.0%,true,13700
-11798,Godsword blade,+0.0%,true,487800
-11818,Godsword shard 1,+2.0%,true,157200
-11820,Godsword shard 2,+2.0%,true,157000
-11822,Godsword shard 3,+2.0%,true,156700
-1692,Gold amulet,+17.0%,false,94
-2357,Gold bar,+10.0%,false,76
-11069,Gold bracelet,+9.0%,true,162
-12345,Gold elegant skirt,+16.0%,true,1200
-8784,Gold leaf,+0.0%,true,134400
-1654,Gold necklace,+7.0%,false,113
-444,Gold ore,+16.0%,false,377
-1635,Gold ring,+21.0%,false,112
-9040,Gold seal,+0.0%,true,755
-9034,Golden statuette,+0.0%,true,1255
-11242,Gourmet impling jar,+11.0%,true,2631
-6981,Granite (2kg),+8.0%,true,49
-21736,Granite gloves,+5.0%,true,651800
-6809,Granite legs,+2.0%,true,40600
-4153,Granite maul,+0.0%,true,30100
-13657,Grape seed,+25.0%,true,7766
+8588,Gilded four-poster,+4.0%,true,30000
+20161,Gilded hasta,+2.0%,true,104900
+9857,Gilded magic wardrobe,+4.0%,true,1676
+3481,Gilded platebody,+5.0%,false,2400000
+3485,Gilded plateskirt,+4.0%,false,257800
+8622,Gilded wardrobe,+4.0%,true,20200
+9472,Gnome goggles,+49.0%,true,18000
+20275,Gnomish firelighter,+10.0%,true,656
+10999,Goblin book,+3.0%,true,105
+288,Goblin mail,+44.0%,false,219
+12251,Goblin mask,+24.0%,true,17500
+11798,Godsword blade,+2.0%,true,490600
+11820,Godsword shard 2,+1.0%,true,155700
+11822,Godsword shard 3,+1.0%,true,155000
+1692,Gold amulet,+9.0%,false,100
+1673,Gold amulet (u),+14.0%,false,118
+2357,Gold bar,+16.0%,false,83
+11069,Gold bracelet,+16.0%,true,178
+12345,Gold elegant skirt,+9.0%,true,1254
+1654,Gold necklace,+11.0%,false,118
+1635,Gold ring,+20.0%,false,128
+20205,Golden chef's hat,+22.0%,false,486500
+9034,Golden statuette,+0.0%,true,1254
+11242,Gourmet impling jar,+7.0%,true,2738
+6311,Gout tuber,+8.0%,true,785900
+9469,Grand seed pod,+16.0%,true,118400
+6983,Granite (5kg),+48.0%,true,700
+21643,Granite boots,+8.0%,true,1800000
+12849,Granite clamp,+7.0%,true,58800
+4153,Granite maul,+0.0%,true,30400
+13657,Grape seed,+14.0%,true,8160
 22835,Greater siren,+3.0%,true,54
-1027,Green cape,+17.0%,false,512
-1099,Green d'hide chaps,+2.0%,false,2155
-1065,Green d'hide vamb,+2.0%,false,1294
-12518,Green dragon mask,+1.0%,true,6134
-1753,Green dragonhide,+4.0%,true,1534
-12865,Green dragonhide set,+0.0%,false,8078
-10434,Green elegant skirt,+0.0%,true,2070
-7330,Green firelighter,+9.0%,true,48
-1044,Green partyhat,+12.0%,false,4729
-638,Green robe top,+3.0%,true,390
-8522,Greenman's ale,+4.0%,true,6006
-5743,Greenman's ale(m),+8.0%,true,32600
-2526,Grey toy horsey,+1.0%,false,160
-205,Grimy harralander,+11.0%,true,803
-201,Grimy marrentill,+7.0%,true,15
-91,Guam potion (unf),+6.0%,true,79
-21733,Guardian boots,+6.0%,true,6000000
-10380,Guthix chaps,+45.0%,true,234200
-10448,Guthix cloak,+3.0%,true,26800
-19927,Guthix d'hide boots,+8.0%,true,1100000
-10378,Guthix dragonhide,+15.0%,true,329800
-13165,Guthix dragonhide set,+15.0%,true,654300
-6760,Guthix mjolnir,+13.0%,true,4566
-2669,Guthix platebody,+6.0%,false,48300
-10814,Hair,+11.0%,true,153
-4310,Ham boots,+8.0%,true,3043
-4304,Ham cloak,+39.0%,true,2914
-4308,Ham gloves,+87.0%,true,1573
-2347,Hammer,+160.0%,false,26
-5994,Hammerstone hops,+9.0%,true,115
-1743,Hard leather,+3.0%,false,142
-1131,Hardleather body,+14.0%,false,8
-311,Harpoon,+26.0%,false,111
-255,Harralander,+13.0%,true,834
-97,Harralander potion (unf),+7.0%,true,913
-10145,Harralander tar,+40.0%,true,7
+628,Green boots,+2.0%,true,504
+1135,Green d'hide body,+0.0%,false,4326
+1099,Green d'hide chaps,+2.0%,false,2141
+7378,Green d'hide chaps (g),+1.0%,false,76600
+22275,Green d'hide shield,+1.0%,true,3117
+1065,Green d'hide vamb,+4.0%,false,1316
+12759,Green dark bow paint,+4.0%,true,125900
+12865,Green dragonhide set,+3.0%,false,8143
+1771,Green dye,+6.0%,false,412
+1044,Green partyhat,+0.0%,false,4764
+648,Green robe bottoms,+28.0%,true,429
+638,Green robe top,+8.0%,true,420
+8522,Greenman's ale,+7.0%,true,6213
+5743,Greenman's ale(m),+41.0%,true,40900
+2894,Grey boots,+7.0%,true,867
+2902,Grey gloves,+4.0%,false,983
+2900,Grey hat,+5.0%,true,987
+2896,Grey robe top,+1.0%,true,864
+2526,Grey toy horsey,+2.0%,false,161
+958,Grey wolf fur,+13.0%,true,25
+205,Grimy harralander,+8.0%,true,795
+203,Grimy tarromin,+23.0%,true,172
+91,Guam potion (unf),+10.0%,true,88
+21733,Guardian boots,+1.0%,true,6000000
+10382,Guthix coif,+5.0%,true,70700
+2673,Guthix full helm,+14.0%,false,30100
+2675,Guthix kiteshield,+8.0%,false,40000
+6760,Guthix mjolnir,+19.0%,true,4789
+3835,Guthix page 1,+6.0%,true,3520
+3836,Guthix page 2,+77.0%,true,4968
+3837,Guthix page 3,+61.0%,true,4734
+3838,Guthix page 4,+16.0%,true,3941
+10814,Hair,+14.0%,true,170
+20053,Half moon spectacles,+39.0%,true,49000
+4310,Ham boots,+15.0%,true,3338
+4304,Ham cloak,+20.0%,true,3041
+4308,Ham gloves,+59.0%,true,1406
+4306,Ham logo,+19.0%,true,1375
+2347,Hammer,+125.0%,false,27
+5994,Hammerstone hops,+9.0%,true,120
+1743,Hard leather,+1.0%,false,156
+22269,Hard leather shield,+54.0%,true,88
+1131,Hardleather body,+28.0%,false,9
+255,Harralander,+7.0%,true,810
+97,Harralander potion (unf),+6.0%,true,907
+10145,Harralander tar,+60.0%,true,8
 53,Headless arrow,+20.0%,true,6
-10828,Helm of neitiznot,+0.0%,true,30500
-347,Herring,+33.0%,false,8
-2631,Highwayman mask,+3.0%,true,66700
-13149,Holy book page set,+7.0%,true,32299
-1599,Holy mould,+56.0%,false,25
-1718,Holy symbol,+15.0%,false,243
-19997,Holy wraps,+44.0%,true,1100000
-20254,Hosidius banner,+48.0%,true,1923
-20724,Imbued heart,+8.0%,true,21000000
-12249,Imp mask,+19.0%,true,12200
-11260,Impling jar,+13.0%,true,1023
-5574,Initiate sallet,+0.0%,true,3343
-11088,Inoculation bracelet,+1.0%,true,1304
+10828,Helm of neitiznot,+2.0%,true,31300
+347,Herring,+42.0%,false,10
+20220,Holy blessing,+20.0%,true,25700
+13149,Holy book page set,+4.0%,true,31400
+12833,Holy elixir,+0.0%,true,1100000
+1718,Holy symbol,+16.0%,false,241
+19997,Holy wraps,+3.0%,true,1100000
+20229,Honourable blessing,+32.0%,true,6956
+20254,Hosidius banner,+66.0%,true,2637
+10004,Hunter potion(1),+3.0%,true,892
+9998,Hunter potion(4),+1.0%,true,4012
+10156,Hunters' crossbow,+17.0%,true,1821
+20724,Imbued heart,+0.0%,true,20300000
+12249,Imp mask,+49.0%,true,15900
+5576,Initiate cuisse,+2.0%,true,4788
+9668,Initiate harness m,+4.0%,true,22100
+5575,Initiate hauberk,+0.0%,true,6021
+11088,Inoculation bracelet,+2.0%,true,1329
+7159,Insulated boots,+8.0%,true,410
+1309,Iron 2h sword,+38.0%,false,25
+885,Iron arrow(p),+3.0%,true,33
 5623,Iron arrow(p++),+3.0%,true,55
-1349,Iron axe,+57.0%,false,11
-9287,Iron bolts (p),+8.0%,true,137
-9294,Iron bolts (p+),+9.0%,true,95
-9301,Iron bolts (p++),+7.0%,true,291
-4778,Iron brutal,+7.0%,true,97
-1101,Iron chainbody,+20.0%,false,71
+1349,Iron axe,+66.0%,false,15
+1363,Iron battleaxe,+25.0%,false,15
+9287,Iron bolts (p),+5.0%,true,141
+9294,Iron bolts (p+),+8.0%,true,99
+9301,Iron bolts (p++),+7.0%,true,302
+4778,Iron brutal,+3.0%,true,95
 9457,Iron crossbow (u),+2.0%,true,40
-813,Iron dart(p),+6.0%,true,17
+1203,Iron dagger,+33.0%,false,4
 5636,Iron dart(p++),+5.0%,true,40
-1153,Iron full helm,+17.0%,false,46
-12231,Iron full helm (t),+9.0%,false,123600
-3192,Iron halberd,+5.0%,true,783
-11386,Iron hasta(p),+0.0%,true,3097
-12233,Iron kiteshield (t),+4.0%,false,70700
-863,Iron knife,+2.0%,true,40
-871,Iron knife(p),+6.0%,true,146
+1153,Iron full helm,+17.0%,false,47
+3192,Iron halberd,+5.0%,true,813
+11391,Iron hasta(p++),+2.0%,true,3312
+5649,Iron javelin(p++),+14.0%,true,8
+871,Iron knife(p),+5.0%,true,149
 5655,Iron knife(p+),+4.0%,true,118
-5662,Iron knife(p++),+8.0%,true,537
-1137,Iron med helm,+100.0%,false,22
-1267,Iron pickaxe,+27.0%,false,161
-1115,Iron platebody,+8.0%,false,114
-1323,Iron scimitar,+9.0%,false,12
-12972,Iron set (lg),+9.0%,false,379
-21111,Jade amulet,+0.0%,true,862
-21102,Jade amulet (u),+3.0%,true,779
-21120,Jade bracelet,+2.0%,true,655
-6315,Jade machete,+8.0%,true,11700
-247,Jangerberries,+233.0%,true,427
-23064,Jar of chemicals,+18.0%,true,713800
-19701,Jar of darkness,+3.0%,true,4900000
-22106,Jar of decay,+14.0%,true,163000
-12936,Jar of swamp,+23.0%,true,18700
+5662,Iron knife(p++),+8.0%,true,557
+1293,Iron longsword,+26.0%,false,19
+1137,Iron med helm,+37.0%,false,22
+1115,Iron platebody,+42.0%,false,138
+12227,Iron platelegs (t),+21.0%,false,35100
+1081,Iron plateskirt,+12.0%,false,65
+12239,Iron plateskirt (g),+8.0%,false,5367
+12229,Iron plateskirt (t),+14.0%,false,1254
+1323,Iron scimitar,+20.0%,false,12
+12974,Iron set (sk),+35.0%,false,441
+1239,Iron spear,+10.0%,true,11
+21111,Jade amulet,+0.0%,true,870
+9187,Jade bolt tips,+50.0%,true,3
+21120,Jade bracelet,+3.0%,true,656
+21957,Jade dragon bolts,+2.0%,true,1605
+6315,Jade machete,+5.0%,true,11900
+247,Jangerberries,+18.0%,true,327
+19701,Jar of darkness,+7.0%,true,5000000
+22106,Jar of decay,+39.0%,true,190400
+13245,Jar of souls,+16.0%,true,69300
+12936,Jar of swamp,+29.0%,true,21700
 1935,Jug,+33.0%,false,4
-3157,Karambwan vessel,+13.0%,true,781
+3157,Karambwan vessel,+0.0%,true,718
+3159,Karambwan vessel,+2.0%,true,1179
 4595,Karidian disguise,+5.0%,true,59
-4932,Karil's coif 0,+4.0%,true,31600
-4734,Karil's crossbow,+7.0%,true,136400
-4938,Karil's crossbow 0,+0.0%,true,95500
-4950,Karil's leatherskirt 0,+2.0%,true,235500
-10111,Kebbit teeth dust,+7.0%,true,2926
-4591,Kharidian headpiece,+17.0%,true,276
-12779,Kharyrll teleport,+4.0%,true,2253
-946,Knife,+96.0%,false,57
-12004,Kraken tentacle,+6.0%,true,455000
-5302,Lantadyme seed,+54.0%,true,2063
-8580,Large oak bed,+9.0%,true,123
-8584,Large teak bed,+4.0%,true,589
-12780,Lassar teleport,+14.0%,true,2458
-3053,Lava battlestaff,+1.0%,true,9798
-11943,Lava dragon bones,+3.0%,true,5427
-11992,Lava scale,+12.0%,true,2880
-11994,Lava scale shard,+14.0%,true,395
-11902,Leaf-bladed sword,+0.0%,true,40500
-3365,Lean snail,+2.0%,true,1078
-3371,Lean snail meat,+9.0%,true,482
+4732,Karil's coif,+0.0%,true,66900
+4932,Karil's coif 0,+6.0%,true,32500
+4734,Karil's crossbow,+8.0%,true,145700
+4938,Karil's crossbow 0,+0.0%,true,95400
+12357,Katana,+24.0%,true,256700
+1971,Kebab,+56.0%,false,50
+10113,Kebbit claws,+4.0%,true,425
+10105,Kebbit spike,+31.0%,true,571
+4591,Kharidian headpiece,+8.0%,true,269
+12779,Kharyrll teleport,+3.0%,true,2237
+7447,Kitchen knife,+1.0%,true,7247
+21043,Kodai insignia,+7.0%,true,73800000
+21006,Kodai wand,+11.0%,true,82200000
+12004,Kraken tentacle,+14.0%,true,515000
+8580,Large oak bed,+5.0%,true,123
+8584,Large teak bed,+4.0%,true,618
+10041,Larupia legs,+16.0%,true,1036
+10043,Larupia top,+19.0%,true,1097
+12780,Lassar teleport,+7.0%,true,2304
+3053,Lava battlestaff,+1.0%,true,9815
+11992,Lava scale,+17.0%,true,2781
+11994,Lava scale shard,+12.0%,true,386
+21202,Lava staff upgrade kit,+3.0%,true,62800
+11902,Leaf-bladed sword,+1.0%,true,41000
+3365,Lean snail,+1.0%,true,1084
+3371,Lean snail meat,+7.0%,true,498
+11332,Leaping sturgeon,+89.0%,true,74
 11328,Leaping trout,+50.0%,true,3
-1741,Leather,+6.0%,false,145
-1129,Leather body,+33.0%,false,8
-1061,Leather boots,+11.0%,false,20
-1167,Leather cowl,+100.0%,false,2
-1059,Leather gloves,+100.0%,false,4
-19724,Left eye patch,+6.0%,true,18100
-2102,Lemon,+1.0%,true,127
-2106,Lemon slices,+5.0%,true,80
-19586,Light frame,+1.0%,true,28700
-10973,Light orb,+4.0%,true,128
-225,Limpwurt root,+2.0%,false,909
-4684,Linen,+27.0%,true,846
-3396,Loar remains,+45.0%,true,35
-379,Lobster,+6.0%,false,175
-301,Lobster pot,+35.0%,false,111
-9052,Locust meat,+11.0%,true,10
-10159,Long kebbit bolts,+5.0%,true,581
-10107,Long kebbit spike,+8.0%,true,3583
-839,Longbow,+42.0%,false,54
-48,Longbow (u),+28.0%,true,9
-987,Loop half of key,+22.0%,true,10000
-12642,Lumberyard teleport,+26.0%,true,13600
-9864,M. treasure chest,+15.0%,true,1047
-975,Machete,+1.0%,true,229
-22201,Magic bird house,+15.0%,true,1286
-10025,Magic box,+4.0%,true,526
-9848,Magic cape rack,+13.0%,true,56000
+1741,Leather,+5.0%,false,146
+1129,Leather body,+42.0%,false,10
+1095,Leather chaps,+100.0%,false,2
+1167,Leather cowl,+50.0%,false,3
+19724,Left eye patch,+8.0%,true,17900
+2106,Lemon slices,+2.0%,true,80
+10973,Light orb,+9.0%,true,121
+4684,Linen,+29.0%,true,905
+3396,Loar remains,+47.0%,true,34
+10107,Long kebbit spike,+0.0%,true,3541
+839,Longbow,+64.0%,false,61
+48,Longbow (u),+20.0%,true,12
+987,Loop half of key,+18.0%,true,10900
+20119,Lovakengj hood,+11.0%,true,31800
+12642,Lumberyard teleport,+56.0%,true,17000
+9864,M. treasure chest,+14.0%,true,1147
+22201,Magic bird house,+9.0%,true,1349
+10025,Magic box,+8.0%,true,552
+9848,Magic cape rack,+9.0%,true,58600
 11491,Magic essence mix(1),+4.0%,true,286
 11489,Magic essence mix(2),+1.0%,true,875
-12932,Magic fang,+2.0%,true,4000000
-1513,Magic logs,+8.0%,true,1120
-859,Magic longbow,+0.0%,true,1342
-70,Magic longbow (u),+9.0%,true,1138
-3448,Magic pyre logs,+8.0%,true,3140
-5374,Magic sapling,+1.0%,true,156300
-5316,Magic seed,+1.0%,true,152700
-12786,Magic shortbow scroll,+11.0%,true,22400
-1389,Magic staff,+73.0%,false,104
-8788,Magic stone,+0.0%,true,982100
-11252,Magpie impling jar,+3.0%,true,16600
-9861,Mahogany armour case,+15.0%,true,1716
-22195,Mahogany bird house,+14.0%,true,1083
-9845,Mahogany cape rack,+9.0%,true,557
-9867,Mahogany fancy dress box,+15.0%,true,2106
-6332,Mahogany logs,+44.0%,true,444
-9856,Mahogany magic wardrobe,+6.0%,true,1003
-8782,Mahogany plank,+0.0%,true,2049
-9851,Mahogany toy box,+14.0%,true,3197
-11931,Malediction shard 1,+1.0%,true,415900
-11933,Malediction shard 3,+14.0%,true,1800000
-22192,Maple bird house,+4.0%,true,782
-6420,Maple blackjack(d),+1.0%,true,4038
-6418,Maple blackjack(o),+14.0%,true,3479
-851,Maple longbow,+12.0%,false,247
-62,Maple longbow (u),+10.0%,true,33
-6047,Maple roots,+8.0%,true,37
-5372,Maple sapling,+5.0%,true,41700
-5314,Maple seed,+5.0%,true,40600
-22257,Maple shield,+20.0%,true,12
-853,Maple shortbow,+1.0%,false,180
-64,Maple shortbow (u),+65.0%,true,33
-9847,Marble cape rack,+14.0%,true,30400
-9858,Marble magic wardrobe,+20.0%,true,32100
-5765,Mature cider,+4.0%,true,30000
+1513,Magic logs,+3.0%,true,1173
+859,Magic longbow,+3.0%,true,1370
+70,Magic longbow (u),+7.0%,true,1203
+3042,Magic potion(3),+5.0%,true,103
+3040,Magic potion(4),+16.0%,true,177
+3448,Magic pyre logs,+10.0%,true,3041
+22263,Magic shield,+1.0%,true,755
+861,Magic shortbow,+2.0%,true,847
+72,Magic shortbow (u),+4.0%,true,878
+21952,Magic stock,+7.0%,true,118
+8788,Magic stone,+0.0%,true,984300
+11252,Magpie impling jar,+2.0%,true,16300
+9861,Mahogany armour case,+20.0%,true,1979
+22195,Mahogany bird house,+8.0%,true,1125
+9845,Mahogany cape rack,+8.0%,true,579
+8606,Mahogany dresser,+3.0%,true,2085
+9867,Mahogany fancy dress box,+15.0%,true,2319
+9856,Mahogany magic wardrobe,+5.0%,true,1016
+9851,Mahogany toy box,+15.0%,true,3511
+8620,Mahogany wardrobe,+4.0%,true,1523
+11933,Malediction shard 3,+14.0%,true,1900000
+22192,Maple bird house,+1.0%,true,792
+6416,Maple blackjack,+24.0%,true,1938
+6418,Maple blackjack(o),+17.0%,true,3461
+1517,Maple logs,+14.0%,false,8
+851,Maple longbow,+4.0%,false,230
+62,Maple longbow (u),+38.0%,true,43
+3444,Maple pyre logs,+3.0%,true,1273
+6047,Maple roots,+29.0%,true,39
+22257,Maple shield,+16.0%,true,14
+853,Maple shortbow,+3.0%,false,191
+64,Maple shortbow (u),+92.0%,true,50
+9448,Maple stock,+12.0%,true,9
+9847,Marble cape rack,+14.0%,true,31800
+9858,Marble magic wardrobe,+25.0%,true,36800
+6010,Marigolds,+9.0%,true,71
+5765,Mature cider,+4.0%,true,31300
 5741,Mature wmb,+4.0%,true,5737
-2327,Meat pie,+1.0%,false,97
-6400,Menaphite red hat,+40.0%,true,1197
-21649,Merfolk trident,+20.0%,true,257399
-5801,Mind bomb(4),+2.0%,true,16500
+6392,Menaphite purple hat,+5.0%,true,837
+6394,Menaphite purple top,+18.0%,true,833
+6400,Menaphite red hat,+37.0%,true,1354
+21649,Merfolk trident,+24.0%,true,293900
+5801,Mind bomb(4),+1.0%,true,16700
 5881,Mind bomb(m4),+3.0%,true,17700
-9731,Mind shield,+9.0%,true,18500
-1448,Mind talisman,+338.0%,false,1657
-5014,Mining helmet,+40.0%,true,806
-9475,Mint cake,+14.0%,true,1572
-4695,Mist rune,+46.0%,true,66
-9181,Mith crossbow,+9.0%,true,461
-9416,Mith grapple tip,+7.0%,true,617
+9733,Mind helmet,+4.0%,true,1597
+1448,Mind talisman,+335.0%,false,3453
+5014,Mining helmet,+50.0%,true,947
+9475,Mint cake,+14.0%,true,1643
+20730,Mist battlestaff,+14.0%,true,148600
+4695,Mist rune,+48.0%,true,73
+9181,Mith crossbow,+30.0%,true,701
+9419,Mith grapple,+8.0%,true,1192
+9416,Mith grapple tip,+9.0%,true,658
+1315,Mithril 2h sword,+1.0%,false,1309
 889,Mithril arrow(p),+2.0%,true,110
-5619,Mithril arrow(p+),+4.0%,true,94
-5625,Mithril arrow(p++),+3.0%,true,117
-1369,Mithril battleaxe,+1.0%,false,783
-9296,Mithril bolts (p+),+0.0%,true,619
-9303,Mithril bolts (p++),+7.0%,true,1687
-4793,Mithril brutal,+18.0%,true,181
-815,Mithril dart(p),+6.0%,true,103
-5632,Mithril dart(p+),+4.0%,true,71
-5639,Mithril dart(p++),+8.0%,true,187
-1197,Mithril kiteshield,+2.0%,false,1104
-873,Mithril knife(p),+8.0%,true,242
-5657,Mithril knife(p+),+3.0%,true,158
-5664,Mithril knife(p++),+6.0%,true,890
-1299,Mithril longsword,+0.0%,false,564
-447,Mithril ore,+1.0%,false,182
-1273,Mithril pickaxe,+0.0%,false,508
-1121,Mithril platebody,+0.0%,false,2809
-1329,Mithril scimitar,+5.0%,false,420
-13000,Mithril set (lg),+1.0%,false,6480
-13002,Mithril set (sk),+10.0%,false,6623
-1243,Mithril spear,+5.0%,true,293
-1181,Mithril sq shield,+1.0%,false,721
-1285,Mithril sword,+3.0%,false,294
-803,Mithril thrownaxe,+8.0%,true,115
-542,Monk's robe,+1.0%,false,168
-2974,Mort myre pear,+13.0%,true,432
-2972,Mort myre stem,+9.0%,true,209
-12406,Mort'ton teleport,+20.0%,true,8131
-22832,Mottled eel,+11.0%,true,58
-6562,Mud battlestaff,+4.0%,true,97700
-7170,Mud pie,+5.0%,true,494
-4698,Mud rune,+39.0%,true,253
-991,Muddy key,+20.0%,false,4130
-6004,Mushroom,+14.0%,true,267
-21690,Mushroom pie,+1.0%,true,4059
-7058,Mushroom potato,+4.0%,true,876
-12746,Mysterious emblem,+23.0%,true,168400
+1355,Mithril axe,+4.0%,false,119
+1369,Mithril battleaxe,+1.0%,false,793
+9296,Mithril bolts (p+),+2.0%,true,631
+9303,Mithril bolts (p++),+6.0%,true,1765
+1109,Mithril chainbody,+6.0%,false,972
+815,Mithril dart(p),+3.0%,true,107
+5632,Mithril dart(p+),+4.0%,true,74
+5639,Mithril dart(p++),+8.0%,true,195
+1159,Mithril full helm,+8.0%,false,674
+11373,Mithril hasta,+10.0%,true,306
+11405,Mithril hasta(p++),+0.0%,true,10800
+828,Mithril javelin,+42.0%,true,27
+1197,Mithril kiteshield,+1.0%,false,1090
+873,Mithril knife(p),+8.0%,true,251
+5657,Mithril knife(p+),+3.0%,true,163
+5664,Mithril knife(p++),+6.0%,true,920
+9427,Mithril limbs,+2.0%,true,669
+1299,Mithril longsword,+8.0%,false,591
+1428,Mithril mace,+15.0%,false,156
+1273,Mithril pickaxe,+4.0%,false,524
+1121,Mithril platebody,+1.0%,false,2825
+12277,Mithril platebody (g),+11.0%,false,11600
+12287,Mithril platebody (t),+10.0%,false,3969
+1071,Mithril platelegs,+1.0%,false,1334
+12279,Mithril platelegs (g),+9.0%,false,7689
+1085,Mithril plateskirt,+5.0%,false,1380
+1329,Mithril scimitar,+11.0%,false,436
+299,Mithril seeds,+10.0%,true,104
+13000,Mithril set (lg),+0.0%,false,6074
+13002,Mithril set (sk),+12.0%,false,7346
+1243,Mithril spear,+23.0%,true,324
+1181,Mithril sq shield,+5.0%,false,730
+1285,Mithril sword,+7.0%,false,319
+803,Mithril thrownaxe,+7.0%,true,119
+1343,Mithril warhammer,+4.0%,false,770
+7416,Mole claw,+2.0%,true,6100
+7418,Mole skin,+5.0%,true,4987
+542,Monk's robe,+10.0%,false,187
+20202,Monk's robe (g),+16.0%,false,1400000
+544,Monk's robe top,+1.0%,false,434
+20199,Monk's robe top (g),+6.0%,false,4400000
+4012,Monkey nuts,+3.0%,true,302
+2955,Moonlight mead,+7.0%,true,98
+2970,Mort myre fungus,+9.0%,true,579
+2974,Mort myre pear,+8.0%,true,432
+2972,Mort myre stem,+4.0%,true,208
+12406,Mort'ton teleport,+12.0%,true,8801
+22832,Mottled eel,+5.0%,true,58
+6562,Mud battlestaff,+6.0%,true,104000
+7170,Mud pie,+5.0%,true,522
+4698,Mud rune,+15.0%,true,238
+20092,Mummy's feet,+26.0%,true,313100
+12351,Musketeer hat,+3.0%,true,215000
+12746,Mysterious emblem,+15.0%,true,171800
 1405,Mystic air staff,+0.0%,true,25200
-23059,Mystic boots (dusk),+196.0%,true,39000
-4117,Mystic boots (light),+13.0%,true,16200
-1407,Mystic earth staff,+0.0%,true,25100
-1401,Mystic fire staff,+0.0%,true,25200
-4095,Mystic gloves,+1.0%,true,5809
-4105,Mystic gloves (dark),+3.0%,true,6346
-23056,Mystic gloves (dusk),+153.0%,true,31900
-4089,Mystic hat,+3.0%,true,11100
-23047,Mystic hat (dusk),+232.0%,true,70700
-4109,Mystic hat (light),+14.0%,true,10400
-6563,Mystic mud staff,+9.0%,true,136500
-4093,Mystic robe bottom,+0.0%,true,47800
-4103,Mystic robe bottom (dark),+0.0%,true,48000
-23053,Mystic robe bottom (dusk),+284.0%,true,222700
-4113,Mystic robe bottom (light),+0.0%,true,47600
-10937,Nail beast nails,+27.0%,true,7663
-12402,Nardah teleport,+5.0%,true,4922
-1462,Nature talisman,+19.0%,true,841
-5541,Nature tiara,+6.0%,true,17
-12325,Navy cavalier,+7.0%,true,2557
-19547,Necklace of anguish,+4.0%,true,16700000
-21157,Necklace of faith,+1.0%,true,637
-8578,Oak bed,+10.0%,true,276
+4107,Mystic boots (dark),+5.0%,true,81400
+23059,Mystic boots (dusk),+119.0%,true,56100
+4117,Mystic boots (light),+1.0%,true,16000
+1407,Mystic earth staff,+0.0%,true,25200
+4095,Mystic gloves,+0.0%,true,5786
+23056,Mystic gloves (dusk),+31.0%,true,32600
+4115,Mystic gloves (light),+4.0%,true,5878
+4089,Mystic hat,+2.0%,true,10800
+23047,Mystic hat (dusk),+187.0%,true,120900
+4109,Mystic hat (light),+0.0%,true,8971
+20733,Mystic mist staff,+2.0%,true,185300
+6563,Mystic mud staff,+22.0%,true,150900
+4103,Mystic robe bottom (dark),+0.0%,true,47900
+23053,Mystic robe bottom (dusk),+112.0%,true,254400
+4113,Mystic robe bottom (light),+0.0%,true,48100
+10937,Nail beast nails,+18.0%,true,7731
+11250,Nature impling jar,+1.0%,true,3036
+1462,Nature talisman,+25.0%,true,863
+12325,Navy cavalier,+9.0%,true,2547
+19547,Necklace of anguish,+0.0%,true,16900000
+8504,Oak armchair,+50.0%,true,9
+8578,Oak bed,+10.0%,true,289
 8564,Oak bench,+4.0%,true,103
-6410,Oak blackjack(d),+3.0%,true,371
-6408,Oak blackjack(o),+8.0%,true,571
-8512,Oak bookcase,+50.0%,true,3
-8502,Oak chair,+28.0%,true,18
-845,Oak longbow,+20.0%,false,76
-56,Oak longbow (u),+20.0%,true,12
-6043,Oak roots,+31.0%,true,42
-54,Oak shortbow (u),+142.0%,true,17
-9442,Oak stock,+100.0%,true,2
+21515,Oak bird house,+0.0%,true,585
+6408,Oak blackjack(o),+4.0%,true,571
+9843,Oak cape rack,+7.0%,true,14
+845,Oak longbow,+28.0%,false,85
+56,Oak longbow (u),+58.0%,true,19
+6043,Oak roots,+27.0%,true,51
+5370,Oak sapling,+3.0%,true,234
+22251,Oak shield,+50.0%,true,3
+843,Oak shortbow,+23.0%,false,53
+54,Oak shortbow (u),+25.0%,true,20
+9442,Oak stock,+200.0%,true,3
 9849,Oak toy box,+8.0%,true,13
-21279,Obsidian armour set,+1.0%,true,3100000
-6568,Obsidian cape,+2.0%,true,832100
-20050,Obsidian cape (r),+6.0%,true,3700000
-21298,Obsidian helmet,+5.0%,true,841800
-12002,Occult necklace,+25.0%,true,768000
-20065,Occult ornament kit,+38.0%,true,4900000
-11928,Odium shard 1,+0.0%,true,298100
-11930,Odium shard 3,+20.0%,true,1200000
-2866,Ogre arrow,+19.0%,true,220
-13190,Old school bond,+9.0%,false,3200000
-1957,Onion,+4.0%,false,23
-6573,Onyx,+1.0%,true,3000000
-9245,Onyx bolts (e),+0.0%,true,8760
-21950,Onyx dragon bolts (e),+2.0%,true,9398
-21117,Opal bracelet,+9.0%,true,531
-21932,Opal dragon bolts (e),+0.0%,true,1318
-6313,Opal machete,+18.0%,true,501
+12002,Occult necklace,+20.0%,true,861600
+11930,Odium shard 3,+19.0%,true,1300000
+2866,Ogre arrow,+31.0%,true,208
+2864,Ogre arrow shaft,+16.0%,true,56
+4522,Oil lamp,+2.0%,true,660
+20029,Old demon mask,+15.0%,true,86900
+13190,Old school bond,+4.0%,false,3300000
+3424,Olive oil(3),+2.0%,true,39
+3422,Olive oil(4),+15.0%,true,15
+1957,Onion,+42.0%,false,30
+9342,Onyx bolts,+0.0%,true,8760
+9245,Onyx bolts (e),+0.0%,true,8747
+21973,Onyx dragon bolts,+2.0%,true,9672
+21950,Onyx dragon bolts (e),+0.0%,true,9211
+1609,Opal,+10.0%,true,300
+21117,Opal bracelet,+13.0%,true,558
+21932,Opal dragon bolts (e),+30.0%,true,1583
+6313,Opal machete,+6.0%,true,502
 8560,Opulent table,+4.0%,true,17600
-2108,Orange,+25.0%,true,70
-7321,Orange boater,+10.0%,true,975
-2470,Orange flowers,+16.0%,true,21
-10146,Orange salamander,+163.0%,true,58
-5972,Papaya fruit,+28.0%,true,404
-13173,Partyhat set,+13.0%,false,47600
-6697,Pat of butter,+3.0%,true,153
+7321,Orange boater,+34.0%,true,1179
+10091,Orange feather,+33.0%,true,4
+2470,Orange flowers,+21.0%,true,23
+10146,Orange salamander,+55.0%,true,62
+12781,Paddewwa teleport,+17.0%,true,2425
+5972,Papaya fruit,+49.0%,true,544
+12399,Partyhat & specs,+14.0%,true,1500000
+13173,Partyhat set,+3.0%,false,49500
+6697,Pat of butter,+6.0%,true,154
+20226,Peaceful blessing,+37.0%,true,6721
 9238,Pearl bolts (e),+20.0%,true,12
-13237,Pegasian boots,+4.0%,true,36000000
-12428,Penguin mask,+91.0%,true,6982
-12407,Pest control teleport,+0.0%,true,549
-9050,Pharaoh's sceptre,+11.0%,true,6900000
-9044,Pharaoh's sceptre (3),+6.0%,true,6700000
-11090,Phoenix necklace,+1.0%,true,2274
-3398,Phrin remains,+1.0%,true,433
-7162,Pie recipe book,+9.0%,true,71
-351,Pike,+45.0%,false,32
-4689,Pile of salt,+9.0%,true,48
-2048,Pineapple punch,+7.0%,true,29
-626,Pink boots,+11.0%,true,539
-6959,Pink cape,+5.0%,true,2086
-12339,Pink elegant blouse,+58.0%,true,3364
-1013,Pink skirt,+38.0%,false,25
-7112,Pirate bandana,+17.0%,true,539
-7124,Pirate bandana,+5.0%,true,599
-7114,Pirate boots,+90.0%,true,351
-7132,Pirate leggings,+2.0%,true,818
-2651,Pirate's hat,+4.0%,true,10900
-20260,Piscarilius banner,+3.0%,true,1447
-12516,Pith helmet,+3.0%,true,2221
-1865,Pitta bread,+9.0%,true,12
-2283,Pizza base,+4.0%,false,145
-2289,Plain pizza,+4.0%,false,541
-6036,Plant cure,+5.0%,true,183
-197,Poison chalice,+14.0%,true,810
-10117,Polar kebbit fur,+13.0%,true,191
-1931,Pot,+75.0%,false,7
-4440,Pot lid,+18.0%,true,482
-7468,Pot of cornflour,+31.0%,true,1408
-2130,Pot of cream,+12.0%,true,28
-1942,Potato,+42.0%,false,54
-3138,Potato cactus,+57.0%,true,791
-6703,Potato with butter,+2.0%,true,373
-5438,Potatoes(10),+40.0%,true,700
-11467,Prayer mix(1),+7.0%,true,1992
-11465,Prayer mix(2),+2.0%,true,5468
-2229,Premade choc bomb,+4.0%,true,93
+13229,Pegasian crystal,+15.0%,true,125100
+12428,Penguin mask,+38.0%,true,7545
+11090,Phoenix necklace,+1.0%,true,2228
+3398,Phrin remains,+1.0%,true,428
+7162,Pie recipe book,+7.0%,true,71
+351,Pike,+26.0%,false,33
+4689,Pile of salt,+8.0%,true,50
+12309,Pink boater,+5.0%,true,8182
+626,Pink boots,+5.0%,true,520
+12339,Pink elegant blouse,+28.0%,true,3085
+7112,Pirate bandana,+2.0%,true,523
+7124,Pirate bandana,+2.0%,true,627
+7136,Pirate bandana,+4.0%,true,253
+7114,Pirate boots,+16.0%,true,374
+12412,Pirate hat & patch,+3.0%,true,111600
+2651,Pirate's hat,+8.0%,true,11700
+20260,Piscarilius banner,+5.0%,true,1490
+19952,Piscarilius scarf,+3.0%,true,5701
+1865,Pitta bread,+8.0%,true,13
+6036,Plant cure,+13.0%,true,164
+273,Poison,+1.0%,false,343
+197,Poison chalice,+1.0%,true,785
+10117,Polar kebbit fur,+15.0%,true,211
+10496,Polished buttons,+9.0%,true,904
+7468,Pot of cornflour,+1.0%,true,1324
+1942,Potato,+11.0%,false,40
+3138,Potato cactus,+5.0%,true,824
+5438,Potatoes(10),+8.0%,true,585
+11467,Prayer mix(1),+8.0%,true,2067
 2034,Premade fr' blast,+4.0%,true,22
-2243,Premade t'd crunch,+11.0%,true,319
-426,Priest gown,+65.0%,false,33
-13239,Primordial boots,+12.0%,true,32400000
-13231,Primordial crystal,+13.0%,true,31900000
-9670,Proselyte harness f,+0.0%,true,27100
-9666,Proselyte harness m,+2.0%,true,27600
-9678,Proselyte tasset,+1.0%,true,6983
-12311,Purple boater,+30.0%,true,1120
-2934,Purple boots,+13.0%,true,956
-10418,Purple elegant legs,+9.0%,true,1899
-10438,Purple elegant skirt,+3.0%,true,915
-10326,Purple firelighter,+81.0%,true,67
-10031,Rabbit snare,+100.0%,true,2
-10136,Rainbow fish,+18.0%,true,122
-5341,Rake,+20.0%,true,133
-2577,Ranger boots,+4.0%,true,35900000
-11511,Ranging mix(1),+8.0%,true,467
-363,Raw bass,+14.0%,true,258
-2136,Raw bear meat,+17.0%,false,237
-2132,Raw beef,+62.0%,false,70
-9978,Raw bird meat,+23.0%,true,26
-2138,Raw chicken,+71.0%,false,77
-2876,Raw chompy,+32.0%,true,2125
-11934,Raw dark crab,+5.0%,true,1344
-345,Raw herring,+9.0%,false,35
-3142,Raw karambwan,+17.0%,true,537
-377,Raw lobster,+13.0%,false,226
-353,Raw mackerel,+2.0%,true,81
-7944,Raw monkfish,+9.0%,true,399
-2337,Raw oomlie,+12.0%,true,1524
-349,Raw pike,+36.0%,false,63
-3226,Raw rabbit,+4.0%,true,204
-10138,Raw rainbow fish,+14.0%,true,202
-2134,Raw rat meat,+6.0%,false,31
-327,Raw sardine,+127.0%,false,25
-3379,Raw slimy eel,+26.0%,true,346
-359,Raw tuna,+20.0%,false,93
-1859,Raw ugthanki meat,+1.0%,true,236
-7206,Raw wild pie,+4.0%,true,3351
-12247,Red beret,+64.0%,true,29900
-7319,Red boater,+12.0%,true,1530
-1007,Red cape,+29.0%,false,44
-12323,Red cavalier,+35.0%,true,5738
-2501,Red d'hide body,+1.0%,true,6361
-2495,Red d'hide chaps,+1.0%,true,2826
-2489,Red d'hide vamb,+2.0%,true,1944
-2507,Red dragon leather,+7.0%,true,2726
-1749,Red dragonhide,+10.0%,true,2570
-12869,Red dragonhide set,+1.0%,true,12400
-7329,Red firelighter,+61.0%,true,29
-1057,Red halloween mask,+2.0%,false,11900
-2910,Red hat,+0.0%,true,999
-1038,Red partyhat,+11.0%,false,5329
-10147,Red salamander,+35.0%,true,57
-10083,Red spiky vambs,+0.0%,true,1889
-22204,Redwood bird house,+4.0%,true,761
-19672,Redwood pyre logs,+6.0%,true,1936
-22266,Redwood shield,+1.0%,true,424
-4842,Relicym's balm(4),+41.0%,true,904
-127,Restore potion(3),+5.0%,true,60
-2430,Restore potion(4),+12.0%,true,107
-21820,Revenant ether,+11.0%,true,176
-1025,Right eye patch,+14.0%,true,310
-2552,Ring of dueling(8),+0.0%,true,911
-2568,Ring of forging,+27.0%,true,1290
-19550,Ring of suffering,+17.0%,true,16700000
-12601,Ring of the gods,+44.0%,true,17600000
-2572,Ring of wealth,+2.0%,true,12400
-12783,Ring of wealth scroll,+6.0%,true,12500
-9988,Roast beast meat,+5.0%,true,18
-9980,Roast bird meat,+7.0%,true,14
-2581,Robin hood hat,+1.0%,true,2800000
-6157,Rock-shell chunk,+1.0%,true,11800
-6130,Rock-shell legs,+3.0%,true,39400
-6161,Rock-shell splinter,+2.0%,true,23200
-954,Rope,+51.0%,false,59
-9339,Ruby bolts,+1.0%,true,300
-11085,Ruby bracelet,+1.0%,true,1210
-21967,Ruby dragon bolts,+10.0%,true,1596
-21944,Ruby dragon bolts (e),+11.0%,true,1642
-1641,Ruby ring,+11.0%,false,1154
+2243,Premade t'd crunch,+11.0%,true,334
+428,Priest gown,+18.0%,false,13
+13239,Primordial boots,+4.0%,true,32700000
+13231,Primordial crystal,+4.0%,true,32400000
+6319,Proboscis,+2.0%,true,149
+9676,Proselyte cuisse,+9.0%,true,10500
+9670,Proselyte harness f,+3.0%,true,28700
+9666,Proselyte harness m,+5.0%,true,28200
+9674,Proselyte hauberk,+5.0%,true,12400
+9672,Proselyte sallet,+0.0%,true,4566
+9678,Proselyte tasset,+2.0%,true,7121
+12311,Purple boater,+44.0%,true,1217
+10326,Purple firelighter,+82.0%,true,86
+10136,Rainbow fish,+5.0%,true,116
+5341,Rake,+6.0%,true,146
+11511,Ranging mix(1),+3.0%,true,467
+4832,Raurg bones,+0.0%,true,6926
+321,Raw anchovies,+28.0%,false,50
+2132,Raw beef,+10.0%,false,65
+2138,Raw chicken,+67.0%,false,62
+2876,Raw chompy,+27.0%,true,1978
+341,Raw cod,+31.0%,true,130
+7176,Raw garden pie,+0.0%,true,824
+345,Raw herring,+6.0%,false,35
+2337,Raw oomlie,+20.0%,true,1712
+349,Raw pike,+7.0%,false,55
+2134,Raw rat meat,+6.0%,false,33
+331,Raw salmon,+9.0%,false,59
+327,Raw sardine,+164.0%,false,37
+317,Raw shrimps,+20.0%,false,12
+335,Raw trout,+5.0%,false,20
+359,Raw tuna,+25.0%,false,94
+1859,Raw ugthanki meat,+8.0%,true,246
+7206,Raw wild pie,+4.0%,true,3375
+12247,Red beret,+70.0%,true,38400
+7319,Red boater,+27.0%,true,1724
+2904,Red boots,+3.0%,true,956
+1007,Red cape,+14.0%,false,48
+12323,Red cavalier,+3.0%,true,5122
+2501,Red d'hide body,+0.0%,true,6305
+12331,Red d'hide body (t),+4.0%,true,6789
+2495,Red d'hide chaps,+2.0%,true,2900
+12333,Red d'hide chaps (t),+15.0%,true,3297
+22281,Red d'hide shield,+13.0%,true,8135
+2489,Red d'hide vamb,+4.0%,true,1956
+12869,Red dragonhide set,+4.0%,true,12700
+7329,Red firelighter,+47.0%,true,31
+2462,Red flowers,+9.0%,true,12
+1057,Red halloween mask,+8.0%,false,12100
+2910,Red hat,+10.0%,true,1074
+1038,Red partyhat,+0.0%,false,5390
+10083,Red spiky vambs,+0.0%,true,1919
+5101,Redberry seed,+100.0%,true,2
+19672,Redwood pyre logs,+8.0%,true,2012
+22266,Redwood shield,+8.0%,true,449
+4844,Relicym's balm(3),+2.0%,true,428
+4842,Relicym's balm(4),+40.0%,true,969
+129,Restore potion(2),+2.0%,true,83
+127,Restore potion(3),+26.0%,true,67
+2430,Restore potion(4),+13.0%,true,115
+21820,Revenant ether,+0.0%,true,176
+1025,Right eye patch,+1.0%,true,303
+20017,Ring of coins,+4.0%,false,18200000
+2568,Ring of forging,+6.0%,false,1054
+20005,Ring of nature,+1.0%,false,11400000
+21129,Ring of returning(5),+4.0%,true,565
+19550,Ring of suffering,+1.0%,true,16900000
+12783,Ring of wealth scroll,+1.0%,true,11700
+4162,Rock hammer,+7.0%,true,557
+6145,Rock-shell boots,+1.0%,true,908
+6128,Rock-shell helm,+4.0%,true,21900
+6130,Rock-shell legs,+0.0%,true,38200
+7445,Rolling pin,+2.0%,true,16800
+954,Rope,+53.0%,false,69
+12395,Royal gown bottom,+53.0%,true,53400
+12393,Royal gown top,+118.0%,true,118200
+12439,Royal sceptre,+24.0%,true,54600
+1603,Ruby,+0.0%,false,1027
+1698,Ruby amulet,+0.0%,false,1124
+1679,Ruby amulet (u),+1.0%,false,1137
+9242,Ruby bolts (e),+14.0%,true,214
+11085,Ruby bracelet,+3.0%,true,1213
+21967,Ruby dragon bolts,+22.0%,true,1589
+21944,Ruby dragon bolts (e),+23.0%,true,1642
+1660,Ruby necklace,+4.0%,false,1156
+1641,Ruby ring,+5.0%,false,1081
 1319,Rune 2h sword,+0.0%,false,38000
-892,Rune arrow,+67.0%,true,109
-5627,Rune arrow(p++),+6.0%,true,1647
-44,Rune arrowtips,+1.0%,true,211
-1359,Rune axe,+0.0%,false,7338
+13026,Rune armour set (sk),+0.0%,false,132300
+892,Rune arrow,+55.0%,true,109
+5627,Rune arrow(p++),+1.0%,true,1640
+44,Rune arrowtips,+33.0%,true,236
+1359,Rune axe,+0.0%,false,7353
 1373,Rune battleaxe,+0.0%,false,24600
-4131,Rune boots,+0.0%,true,7400
-12379,Rune cane,+1.0%,true,8322
+4131,Rune boots,+2.0%,true,7483
 1113,Rune chainbody,+0.0%,false,29700
-3101,Rune claws,+1.0%,true,7056
-9185,Rune crossbow,+2.0%,true,9989
-1213,Rune dagger,+0.0%,false,4537
-5678,Rune dagger(p+),+1.0%,true,4468
-5696,Rune dagger(p++),+27.0%,true,11300
-5634,Rune dart(p+),+2.0%,true,1490
-5641,Rune dart(p++),+8.0%,true,2719
-1163,Rune full helm,+0.0%,false,20700
-3202,Rune halberd,+2.0%,true,39000
+9185,Rune crossbow,+0.0%,true,9955
+5678,Rune dagger(p+),+0.0%,true,4508
+5696,Rune dagger(p++),+15.0%,true,11700
+811,Rune dart,+10.0%,true,1182
+817,Rune dart(p),+7.0%,true,1147
+5634,Rune dart(p+),+3.0%,true,1545
+5641,Rune dart(p++),+3.0%,true,2734
+1163,Rune full helm,+0.0%,false,20800
+3202,Rune halberd,+1.0%,true,38700
 11377,Rune hasta,+0.0%,true,12100
-10288,Rune helm (h2),+5.0%,false,25300
-10292,Rune helm (h4),+2.0%,false,22400
-830,Rune javelin,+20.0%,true,164
-19580,Rune javelin heads,+5.0%,true,628
+10288,Rune helm (h2),+0.0%,false,22600
+10290,Rune helm (h3),+2.0%,false,22000
+10292,Rune helm (h4),+0.0%,false,22500
+10294,Rune helm (h5),+8.0%,false,23100
+830,Rune javelin,+10.0%,true,163
+19580,Rune javelin heads,+4.0%,true,629
 836,Rune javelin(p),+0.0%,true,370
 5647,Rune javelin(p+),+3.0%,true,369
 5653,Rune javelin(p++),+4.0%,true,745
 1201,Rune kiteshield,+0.0%,false,32200
+5667,Rune knife(p++),+25.0%,true,477
 1303,Rune longsword,+0.0%,false,18800
 1147,Rune med helm,+0.0%,false,11200
+4824,Rune nails,+0.0%,true,819
 1275,Rune pickaxe,+0.0%,false,18900
-1127,Rune platebody,+0.0%,false,38600
 1079,Rune platelegs,+0.0%,false,38000
 1093,Rune plateskirt,+0.0%,false,38000
-3476,Rune plateskirt (g),+1.0%,false,38700
-3477,Rune plateskirt (t),+1.0%,false,38800
+3477,Rune plateskirt (t),+0.0%,false,38400
 1333,Rune scimitar,+0.0%,false,15100
-7336,Rune shield (h1),+2.0%,false,71700
-7354,Rune shield (h4),+5.0%,false,39400
-7360,Rune shield (h5),+0.0%,false,38700
 1247,Rune spear,+0.0%,true,12100
-1185,Rune sq shield,+0.0%,false,22600
-1289,Rune sword,+1.0%,false,12400
-805,Rune thrownaxe,+4.0%,true,196
-9144,Runite bolts,+0.0%,true,341
-3436,Sacred oil(1),+6.0%,true,400
-3430,Sacred oil(4),+2.0%,true,1703
-20047,Samurai boots,+2.0%,true,126000
-6977,Sandstone (10kg),+31.0%,true,1886
-6975,Sandstone (5kg),+4.0%,true,50
-10931,Sanfew serum(1),+4.0%,true,5240
-10929,Sanfew serum(2),+7.0%,true,10700
-10927,Sanfew serum(3),+1.0%,true,15700
-10925,Sanfew serum(4),+3.0%,true,21200
-22481,Sanguinesti staff (uncharged),+34.0%,true,163400000
-1050,Santa hat,+29.0%,false,13600
-1694,Sapphire amulet,+20.0%,false,549
-11072,Sapphire bracelet,+6.0%,true,517
-1656,Sapphire necklace,+5.0%,false,673
-1637,Sapphire ring,+3.0%,false,666
-10384,Saradomin bracers,+2.0%,true,30300
-10388,Saradomin chaps,+12.0%,true,453500
-19933,Saradomin d'hide boots,+7.0%,true,1300000
-13163,Saradomin dragonhide set,+0.0%,true,1100000
-20074,Saradomin godsword ornament kit,+0.0%,true,5000000
-6762,Saradomin mjolnir,+12.0%,true,4509
-3827,Saradomin page 1,+29.0%,true,6408
-3828,Saradomin page 2,+16.0%,true,6789
-3829,Saradomin page 3,+7.0%,true,4781
-3830,Saradomin page 4,+11.0%,true,4198
-2661,Saradomin platebody,+13.0%,false,93900
-10464,Saradomin robe legs,+14.0%,true,121400
-10458,Saradomin robe top,+6.0%,true,170400
-10470,Saradomin stole,+18.0%,true,12100
-12804,Saradomin's tear,+9.0%,true,5100000
-325,Sardine,+33.0%,false,8
+5728,Rune spear(p++),+0.0%,true,21100
+1185,Rune sq shield,+0.0%,false,22700
+1289,Rune sword,+0.0%,false,12300
+805,Rune thrownaxe,+33.0%,true,226
+1347,Rune warhammer,+0.0%,false,24700
+2363,Runite bar,+0.0%,false,12400
+9144,Runite bolts,+20.0%,true,355
+3434,Sacred oil(2),+23.0%,true,810
+3432,Sacred oil(3),+0.0%,true,1904
+3430,Sacred oil(4),+40.0%,true,2062
+12337,Sagacious spectacles,+8.0%,true,1500000
+329,Salmon,+11.0%,false,57
+20041,Samurai gloves,+1.0%,true,433800
+20044,Samurai greaves,+7.0%,true,89900
+20035,Samurai kasa,+11.0%,true,448900
+6973,Sandstone (2kg),+6.0%,true,83
+6975,Sandstone (5kg),+14.0%,true,55
+13431,Sandworms,+1.0%,true,98
+22481,Sanguinesti staff (uncharged),+23.0%,true,182800000
+1694,Sapphire amulet,+9.0%,false,511
+1675,Sapphire amulet (u),+11.0%,false,589
+11072,Sapphire bracelet,+0.0%,true,512
+1656,Sapphire necklace,+2.0%,false,630
+6691,Saradomin brew(1),+9.0%,true,660
+6689,Saradomin brew(2),+12.0%,true,1304
+6687,Saradomin brew(3),+11.0%,true,1956
+6685,Saradomin brew(4),+12.0%,true,2741
+10390,Saradomin coif,+11.0%,true,67600
+20074,Saradomin godsword ornament kit,+22.0%,true,5500000
+6762,Saradomin mjolnir,+25.0%,true,5030
+3827,Saradomin page 1,+9.0%,true,6432
+3828,Saradomin page 2,+1.0%,true,6519
+3829,Saradomin page 3,+4.0%,true,4996
+2663,Saradomin platelegs,+8.0%,false,55500
+3479,Saradomin plateskirt,+1.0%,false,39100
+10464,Saradomin robe legs,+25.0%,true,121700
+12804,Saradomin's tear,+0.0%,true,4700000
+325,Sardine,+88.0%,false,17
 7078,Scrambled egg,+12.0%,true,9
+22486,Scythe of vitur (uncharged),+9.0%,true,1500000000
+9003,Security book,+11.0%,false,30
+6724,Seercull,+6.0%,true,21700
+6731,Seers ring,+2.0%,true,602800
+12782,Senntisten teleport,+4.0%,true,2377
+546,Shade robe top,+3.0%,false,715
+21838,Shaman mask,+1.0%,false,11400
+1854,Shantay pass,+11.0%,true,10
+1735,Shears,+54.0%,false,17
+2368,Shield right half,+1.0%,true,767300
+621,Ship ticket,+5.0%,true,82
+5034,Shirt,+0.0%,true,1177
+5032,Shirt,+3.0%,true,1593
+8610,Shoe box,+100.0%,true,2
+5046,Shorts,+16.0%,true,1630
+315,Shrimps,+85.0%,false,13
+11205,Shrunk ogleroot,+5.0%,true,19
+2976,Sickle mould,+8.0%,true,146
+950,Silk,+64.0%,false,28
+2355,Silver bar,+13.0%,false,110
+9306,Silver bolts (p++),+3.0%,true,83
+7650,Silver dust,+2.0%,true,215
+9436,Sinew,+14.0%,true,130
+6305,Skewer stick,+36.0%,true,34
+11113,Skills necklace,+1.0%,true,12600
+11105,Skills necklace(4),+2.0%,true,13100
+11968,Skills necklace(6),+2.0%,true,13700
+5759,Slayer's respite,+13.0%,true,59
+5761,Slayer's respite(m),+9.0%,true,29200
+4170,Slayer's staff,+6.0%,true,22300
+3162,Sliced banana,+19.0%,false,37
+7080,Sliced mushrooms,+2.0%,true,80
+11998,Smoke battlestaff,+8.0%,true,3800000
+4697,Smoke rune,+28.0%,true,54
+13233,Smouldering stone,+6.0%,true,1900000
+6287,Snake hide,+0.0%,true,273
+7801,Snake hide,+2.0%,true,711
+6326,Snakeskin bandana,+92.0%,true,133
+6322,Snakeskin body,+6.0%,true,555
+6328,Snakeskin boots,+27.0%,true,202
+6324,Snakeskin chaps,+10.0%,true,489
+22272,Snakeskin shield,+20.0%,true,321
+6330,Snakeskin vambraces,+32.0%,true,173
+12821,Spectral spirit shield,+0.0%,true,50600000
+2007,Spice,+65.0%,true,354
+2213,Spicy crunchies,+1.0%,true,516
+9996,Spicy minced meat,+11.0%,true,47
+7072,Spicy sauce,+4.0%,true,291
+9994,Spicy tomato,+8.0%,true,85
+6291,Spider carcass,+3.0%,true,142
+3107,Spiked boots,+25.0%,true,1404
+1969,Spinach roll,+66.0%,false,65
+10812,Split log,+9.0%,true,796
+3393,Splitbark boots,+0.0%,true,8837
+3391,Splitbark gauntlets,+3.0%,true,2748
+3385,Splitbark helm,+1.0%,true,5736
+10069,Spotted cape,+14.0%,true,765
+10125,Spotted kebbit fur,+140.0%,true,12
+1379,Staff,+50.0%,false,30
+1381,Staff of air,+2.0%,false,1664
+1385,Staff of earth,+13.0%,false,1140
+1387,Staff of fire,+12.0%,false,1113
+22296,Staff of light,+5.0%,true,5100000
+11791,Staff of the dead,+11.0%,true,5300000
+20590,Stale baguette,+61.0%,false,361200
+12635,Stamina mix(1),+2.0%,true,2044
+11787,Steam battlestaff,+6.0%,true,492700
+4694,Steam rune,+20.0%,true,106
+12798,Steam staff upgrade kit,+15.0%,true,65500
+1311,Steel 2h sword,+12.0%,false,403
+887,Steel arrow(p),+3.0%,true,32
+5618,Steel arrow(p+),+3.0%,true,219
+5624,Steel arrow(p++),+2.0%,true,1118
+1365,Steel battleaxe,+12.0%,false,196
+9288,Steel bolts (p),+4.0%,true,162
+9295,Steel bolts (p+),+3.0%,true,123
+9302,Steel bolts (p++),+6.0%,true,371
+4123,Steel boots,+20.0%,true,78
+1105,Steel chainbody,+14.0%,false,274
+1207,Steel dagger,+16.0%,false,21
+5690,Steel dagger(p++),+2.0%,true,6372
+808,Steel dart,+12.0%,true,9
+814,Steel dart(p),+4.0%,true,22
+5630,Steel dart(p+),+3.0%,true,55
+5637,Steel dart(p++),+7.0%,true,45
+12367,Steel dragon mask,+0.0%,true,13600
+1157,Steel full helm,+8.0%,false,159
+11371,Steel hasta,+25.0%,true,79
+5644,Steel javelin(p+),+12.0%,true,9
+1193,Steel kiteshield,+12.0%,false,306
+872,Steel knife(p),+3.0%,true,81
+5663,Steel knife(p++),+4.0%,true,176
+1295,Steel longsword,+11.0%,false,137
+1424,Steel mace,+15.0%,false,23
+1119,Steel platebody,+5.0%,false,985
+1069,Steel platelegs,+14.0%,false,405
+20172,Steel platelegs (g),+29.0%,false,20800
+1083,Steel plateskirt,+8.0%,false,407
+20175,Steel plateskirt (g),+30.0%,false,5171
+20190,Steel plateskirt (t),+21.0%,false,1590
+1325,Steel scimitar,+64.0%,false,79
+12986,Steel set (sk),+7.0%,false,1775
+1241,Steel spear,+60.0%,true,285
+1281,Steel sword,+7.0%,false,89
+802,Steel thrownaxe,+5.0%,true,21
+20376,Steel trimmed set (lg),+2.0%,false,54300
+1339,Steel warhammer,+2.0%,false,190
+9038,Stone statuette,+1.0%,true,195
+5406,Strawberries(5),+11.0%,true,896
+117,Strength potion(2),+7.0%,false,136
+115,Strength potion(3),+15.0%,false,189
+113,Strength potion(4),+8.0%,false,277
+7128,Stripy pirate shirt,+1.0%,true,1071
+7134,Stripy pirate shirt,+1.0%,true,1008
+9004,Stronghold notes,+5.0%,false,21
+10132,Strung rabbit foot,+3.0%,true,2489
+1133,Studded body,+1.0%,false,395
+7366,Studded chaps (g),+1.0%,false,89200
+21981,Super antifire potion(3),+1.0%,true,9858
+21978,Super antifire potion(4),+5.0%,true,12400
+11499,Super def. mix(1),+4.0%,true,432
+3018,Super energy(3),+1.0%,true,1441
+3016,Super energy(4),+10.0%,true,2102
+4608,Super kebab,+5.0%,true,506
+22124,Superior dragon bones,+5.0%,true,12200
+10149,Swamp lizard,+7.0%,true,138
+1941,Swamp paste,+8.0%,true,106
+2150,Swamp toad,+27.0%,true,469
+10978,Swamp weed,+26.0%,true,132
+12409,Tai bwo wannai teleport,+18.0%,true,11800
+2187,Tangled toad's legs,+4.0%,true,2784
+253,Tarromin,+25.0%,true,190
+95,Tarromin potion (unf),+13.0%,true,247
+10093,Tatty larupia fur,+9.0%,true,618
+8582,Teak bed,+9.0%,true,433
+21521,Teak bird house,+6.0%,true,919
+8592,Teak clock,+2.0%,true,1113
+2928,Teal robe bottoms,+0.0%,true,753
+20217,Team cape i,+13.0%,false,2000000
+20214,Team cape x,+24.0%,false,2200000
+20211,Team cape zero,+9.0%,false,4300000
+4335,Team-11 cape,+4.0%,false,508
+4339,Team-13 cape,+2.0%,false,571
+4345,Team-16 cape,+1.0%,false,68
+4353,Team-20 cape,+24.0%,false,123
+4355,Team-21 cape,+0.0%,false,521
+4365,Team-26 cape,+11.0%,false,68
+4381,Team-34 cape,+1.0%,false,496
+4385,Team-36 cape,+10.0%,false,42
+4397,Team-42 cape,+6.0%,false,254
+4407,Team-47 cape,+7.0%,false,361
+4409,Team-48 cape,+24.0%,false,495
+4411,Team-49 cape,+2.0%,false,320
+4323,Team-5 cape,+2.0%,false,790
+4413,Team-50 cape,+39.0%,false,184
+4327,Team-7 cape,+11.0%,false,372
+4331,Team-9 cape,+9.0%,false,221
+6285,Thatch spar dense,+15.0%,true,46
+6283,Thatch spar med,+33.0%,true,4
+3363,Thin snail,+3.0%,true,607
+5523,Tiara mould,+21.0%,false,117
+8837,Timber beam,+70.0%,true,29
+590,Tinderbox,+5.0%,false,76
+2255,Toad batta,+8.0%,true,911
+2152,Toad's legs,+14.0%,true,576
+6523,Toktz-xil-ak,+156.0%,true,606300
+21961,Topaz dragon bolts,+2.0%,true,1725
+21087,Topaz ring,+3.0%,true,2203
+8443,Topiary hedge,+3.0%,true,25700
+4962,Torag's hammers 0,+0.0%,true,95500
+4745,Torag's helm,+2.0%,true,144300
+21047,Torn prayer scroll,+1.0%,true,46700
+7939,Tortoise shell,+8.0%,true,947
+20062,Torture ornament kit,+0.0%,true,4500000
+7763,Toy doll,+7.0%,true,2550
+7765,Toy doll (wound),+4.0%,true,3930
+7767,Toy mouse,+25.0%,true,1227
+7769,Toy mouse (wound),+3.0%,true,1843
+7759,Toy soldier,+1.0%,true,2236
+6335,Tribal mask,+10.0%,true,4717
+6337,Tribal mask,+10.0%,true,3138
+6351,Tribal top,+4.0%,true,6665
+6341,Tribal top,+8.0%,true,6039
+6361,Tribal top,+3.0%,true,4725
+6371,Tribal top,+9.0%,true,5787
+333,Trout,+15.0%,false,22
+361,Tuna,+30.0%,false,98
+1716,Unblessed symbol,+3.0%,false,68
+22294,Uncharged toxic trident (e),+0.0%,true,9200000
+11908,Uncharged trident,+6.0%,true,58800
+22290,Uncharged trident (e),+19.0%,true,4200000
+2317,Uncooked apple pie,+5.0%,false,624
+1617,Uncut diamond,+5.0%,false,3055
+1631,Uncut dragonstone,+8.0%,true,15100
+1625,Uncut opal,+18.0%,true,234
+19496,Uncut zenyte,+2.0%,true,14200000
+3406,Unfinished potion,+6.0%,true,201
+4438,Unfired pot lid,+0.0%,true,128
+7051,Unlit bug lantern,+1.0%,true,368
+567,Unpowered orb,+2.0%,true,78
+4825,Unstrung comp bow,+15.0%,true,340
+19604,Unstrung light ballista,+0.0%,true,92600
+3325,Vampyre dust,+251.0%,true,260
+2195,Veg ball,+3.0%,true,811
+2281,Vegetable batta,+5.0%,true,956
+4757,Verac's brassard,+0.0%,true,191600
+4992,Verac's brassard 0,+0.0%,true,167600
+4755,Verac's flail,+1.0%,true,150800
+4986,Verac's flail 0,+0.0%,true,95500
+4753,Verac's helm,+5.0%,true,285800
+4980,Verac's helm 0,+11.0%,true,258800
+22446,Vial of blood,+0.0%,true,3864
+6345,Villager hat,+1.0%,true,5034
+6355,Villager hat,+2.0%,true,5011
+6367,Villager sandals,+3.0%,true,3548
+6377,Villager sandals,+1.0%,true,2711
+20232,War blessing,+18.0%,true,10200
+12802,Ward upgrade kit,+2.0%,true,80500
+3753,Warrior helm,+8.0%,true,41900
+1395,Water battlestaff,+0.0%,true,9061
+1444,Water talisman,+14.0%,false,194
+5331,Watering can,+34.0%,true,160
+5982,Watermelon,+6.0%,true,17
+5984,Watermelon slice,+2.0%,true,36
+2017,Whisky,+6.0%,true,49
+6609,White 2h sword,+0.0%,true,1752
+1005,White apron,+14.0%,false,47
+2637,White beret,+63.0%,true,75600
+12321,White cavalier,+5.0%,true,11400
+6615,White chainbody,+0.0%,true,2365
+6597,White dagger(p++),+4.0%,true,228
+12763,White dark bow paint,+2.0%,true,125800
+10422,White elegant skirt,+8.0%,true,1274
+10327,White firelighter,+41.0%,true,51
+6623,White full helm,+0.0%,true,1616
+12299,White headband,+44.0%,true,3360
+22932,White lily,+138.0%,true,1450
+1048,White partyhat,+5.0%,false,5795
+6617,White platebody,+10.0%,true,5978
+2522,White toy horsey,+0.0%,false,295
+20269,White unicorn mask,+107.0%,true,35000
+21518,Willow bird house,+3.0%,true,728
+4600,Willow blackjack,+2.0%,true,169
+6414,Willow blackjack(d),+3.0%,true,792
+6412,Willow blackjack(o),+14.0%,true,1940
+1519,Willow logs,+9.0%,false,12
+58,Willow longbow (u),+6.0%,true,16
+5371,Willow sapling,+17.0%,true,4784
+5313,Willow seed,+19.0%,true,4329
+22254,Willow shield,+40.0%,true,28
+60,Willow shortbow (u),+25.0%,true,20
+9444,Willow stock,+200.0%,true,6
+2054,Wizard blizzard,+7.0%,true,29
+1017,Wizard hat,+55.0%,false,219
+1907,Wizard's mind bomb,+9.0%,false,92
+1793,Woad leaf,+4.0%,false,64
+2859,Wolf bones,+4.0%,true,393
+2861,Wolfbone arrowtips,+9.0%,true,102
+8576,Wooden bed,+4.0%,true,122
+10891,Wooden cat,+24.0%,true,31
+8498,Wooden chair,+100.0%,true,34
+1171,Wooden shield,+9.0%,false,67
+7433,Wooden spoon,+3.0%,true,53
+9440,Wooden stock,+200.0%,true,3
+1737,Wool,+49.0%,false,112
+2253,Worm batta,+6.0%,true,794
+2205,Worm crunchies,+9.0%,true,1216
+2191,Worm hole,+5.0%,true,1569
+10818,Yak-hide,+11.0%,true,126
+10824,Yak-hide armour,+22.0%,true,110
+5998,Yanillian hops,+0.0%,true,1009
+1472,Yellow bead,+66.0%,false,3058
+2914,Yellow boots,+0.0%,true,965
+1023,Yellow cape,+6.0%,false,255
+10090,Yellow feather,+15.0%,true,51
+2466,Yellow flowers,+18.0%,true,19
+2922,Yellow gloves,+4.0%,false,957
+1040,Yellow partyhat,+4.0%,false,4520
+10282,Yew comp bow,+4.0%,true,934
+1515,Yew logs,+12.0%,false,325
+855,Yew longbow,+7.0%,true,608
+66,Yew longbow (u),+24.0%,true,414
+3446,Yew pyre logs,+2.0%,true,1957
+10374,Zamorak coif,+5.0%,true,65300
+11808,Zamorak godsword,+9.0%,true,5200000
+11816,Zamorak hilt,+1.0%,true,4300000
+6764,Zamorak mjolnir,+15.0%,true,5195
+3478,Zamorak plateskirt,+0.0%,false,39100
+10468,Zamorak robe legs,+28.0%,true,141700
+20749,Zamorak's grapes,+15.0%,true,9335
+11889,Zamorakian hasta,+10.0%,true,14600000
+11824,Zamorakian spear,+12.0%,true,14500000
+19541,Zenyte amulet,+1.0%,true,15000000
+19532,Zenyte bracelet,+4.0%,true,16000000
+19535,Zenyte necklace,+7.0%,true,16399999
+19538,Zenyte ring,+4.0%,true,15700000
+19529,Zenyte shard,+1.0%,true,13800000
+19912,Zombie head,+7.0%,true,2944
+12938,Zul-andra teleport,+8.0%,true,21500
